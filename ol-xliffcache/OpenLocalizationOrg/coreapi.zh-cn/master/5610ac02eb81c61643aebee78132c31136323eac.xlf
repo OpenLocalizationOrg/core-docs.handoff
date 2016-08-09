@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5610ac02eb81c61643aebee78132c31136323eac</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Data.SqlClient.SqlException.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1a564728d43e42f21d2e031b01c7c6811dc98a7e</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>SqlException</source>
+          <target state="new">SqlException</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Class</source>
+          <target state="new">Class</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value from 1 to 25 that indicates the severity level of the error.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A value from 1 to 25 that indicates the severity level of the error.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>ClientConnectionId</source>
+          <target state="new">ClientConnectionId</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the client connection ID.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Returns the client connection ID.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Errors</source>
+          <target state="new">Errors</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>LineNumber</source>
+          <target state="new">LineNumber</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The line number within the Transact-SQL command batch or stored procedure that generated the error.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The line number within the Transact-SQL command batch or stored procedure that generated the error.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target state="new">Number</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number that identifies the type of error.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number that identifies the type of error.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Procedure</source>
+          <target state="new">Procedure</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the stored procedure or RPC.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The name of the stored procedure or RPC.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Server</source>
+          <target state="new">Server</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the computer running an instance of SQL Server.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The name of the computer running an instance of SQL Server.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Source</source>
+          <target state="new">Source</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the provider that generated the error.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The name of the provider that generated the error.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>State</source>
+          <target state="new">State</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number representing the error code.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number representing the error code.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>ToString()</source>
+          <target state="new">ToString()</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>System.Data.SqlClient</source>
+          <target state="new">System.Data.SqlClient</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Guid</source>
+          <target state="new">Guid</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>SqlErrorCollection</source>
+          <target state="new">SqlErrorCollection</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

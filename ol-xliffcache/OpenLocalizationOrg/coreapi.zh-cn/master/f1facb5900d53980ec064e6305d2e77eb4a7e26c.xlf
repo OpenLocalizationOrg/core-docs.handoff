@@ -1,0 +1,2434 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f1facb5900d53980ec064e6305d2e77eb4a7e26c</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Xml.XmlReader.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">272646d42a19b6a2fd96a67457c15ed607f1f8fe</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>XmlReader</source>
+          <target state="new">XmlReader</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>XmlReader()</source>
+          <target state="new">XmlReader()</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>AttributeCount</source>
+          <target state="new">AttributeCount</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of attributes on the current node.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number of attributes on the current node.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>BaseURI</source>
+          <target state="new">BaseURI</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The base URI of the current node.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The base URI of the current node.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>CanReadBinaryContent</source>
+          <target state="new">CanReadBinaryContent</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the binary content read methods are implemented; otherwise &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the binary content read methods are implemented; otherwise &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>CanReadValueChunk</source>
+          <target state="new">CanReadValueChunk</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>CanResolveEntity</source>
+          <target state="new">CanResolveEntity</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the reader can parse and resolve entities; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the reader can parse and resolve entities; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Depth</source>
+          <target state="new">Depth</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The depth of the current node in the XML document.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The depth of the current node in the XML document.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>EOF</source>
+          <target state="new">EOF</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the reader is positioned at the end of the stream; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the reader is positioned at the end of the stream; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>HasAttributes</source>
+          <target state="new">HasAttributes</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the current node has attributes; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the current node has attributes; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>HasValue</source>
+          <target state="new">HasValue</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the node on which the reader is currently positioned can have a &lt;strong&gt;Value&lt;/strong&gt;; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the node on which the reader is currently positioned can have a &lt;strong&gt;Value&lt;/strong&gt;; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>If &lt;strong&gt;false&lt;/strong&gt;, the node has a value of &lt;strong&gt;String.Empty&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">If &lt;strong&gt;false&lt;/strong&gt;, the node has a value of &lt;strong&gt;String.Empty&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>IsDefault</source>
+          <target state="new">IsDefault</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the current node is an attribute whose value was generated from the default value defined in the DTD or schema; &lt;strong&gt;false&lt;/strong&gt; if the attribute value was explicitly set.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the current node is an attribute whose value was generated from the default value defined in the DTD or schema; &lt;strong&gt;false&lt;/strong&gt; if the attribute value was explicitly set.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>IsEmptyElement</source>
+          <target state="new">IsEmptyElement</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Item[Int32]</source>
+          <target state="new">Item[Int32]</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The index of the attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value of the specified attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Item[String]</source>
+          <target state="new">Item[String]</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The qualified name of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The qualified name of the attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified attribute.</source>
+          <target state="new">\n&lt;p&gt;The value of the specified attribute.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>If the attribute is not found, &lt;strong&gt;null&lt;/strong&gt; is returned.&lt;/p&gt;\n</source>
+          <target state="new">If the attribute is not found, &lt;strong&gt;null&lt;/strong&gt; is returned.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Item[String, String]</source>
+          <target state="new">Item[String, String]</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified attribute.</source>
+          <target state="new">\n&lt;p&gt;The value of the specified attribute.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>If the attribute is not found, &lt;strong&gt;null&lt;/strong&gt; is returned.&lt;/p&gt;\n</source>
+          <target state="new">If the attribute is not found, &lt;strong&gt;null&lt;/strong&gt; is returned.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>LocalName</source>
+          <target state="new">LocalName</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the current node with the prefix removed.</source>
+          <target state="new">\n&lt;p&gt;The name of the current node with the prefix removed.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>For example, &lt;strong&gt;LocalName&lt;/strong&gt; is &lt;strong&gt;book&lt;/strong&gt; for the element &lt;code&gt;&lt;bk:book&gt;&lt;/code&gt;.&lt;/p&gt;\n&lt;p&gt;For node types that do not have a name (like &lt;strong&gt;Text&lt;/strong&gt;, &lt;strong&gt;Comment&lt;/strong&gt;, and so on), this property returns &lt;strong&gt;String.Empty&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">For example, &lt;strong&gt;LocalName&lt;/strong&gt; is &lt;strong&gt;book&lt;/strong&gt; for the element &lt;code&gt;&lt;bk:book&gt;&lt;/code&gt;.&lt;/p&gt;\n&lt;p&gt;For node types that do not have a name (like &lt;strong&gt;Text&lt;/strong&gt;, &lt;strong&gt;Comment&lt;/strong&gt;, and so on), this property returns &lt;strong&gt;String.Empty&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>NamespaceURI</source>
+          <target state="new">NamespaceURI</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the current node; otherwise an empty string.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the current node; otherwise an empty string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>NameTable</source>
+          <target state="new">NameTable</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;strong&gt;XmlNameTable&lt;/strong&gt; enabling you to get the atomized version of a string within the node.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;strong&gt;XmlNameTable&lt;/strong&gt; enabling you to get the atomized version of a string within the node.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>NodeType</source>
+          <target state="new">NodeType</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specify the type of the current node.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;One of the enumeration values that specify the type of the current node.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Prefix</source>
+          <target state="new">Prefix</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace prefix associated with the current node.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace prefix associated with the current node.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>ReadState</source>
+          <target state="new">ReadState</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the state of the reader.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;One of the enumeration values that specifies the state of the reader.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="new">Settings</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <target state="new">Value</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>ValueType</source>
+          <target state="new">ValueType</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The CLR type that corresponds to the typed value of the node.</source>
+          <target state="new">\n&lt;p&gt;The CLR type that corresponds to the typed value of the node.</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>The default is &lt;strong&gt;System.String&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">The default is &lt;strong&gt;System.String&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>XmlLang</source>
+          <target state="new">XmlLang</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current &lt;strong&gt;xml:lang&lt;/strong&gt; scope.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current &lt;strong&gt;xml:lang&lt;/strong&gt; scope.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>XmlSpace</source>
+          <target state="new">XmlSpace</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Create(Stream)</source>
+          <target state="new">Create(Stream)</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Create(Stream, XmlReaderSettings)</source>
+          <target state="new">Create(Stream, XmlReaderSettings)</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Create(Stream, XmlReaderSettings, XmlParserContext)</source>
+          <target state="new">Create(Stream, XmlReaderSettings, XmlParserContext)</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Create(TextReader)</source>
+          <target state="new">Create(TextReader)</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text reader from which to read the XML data.</source>
+          <target state="new">\n&lt;p&gt;The text reader from which to read the XML data.</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>A text reader returns a stream of Unicode characters, so the encoding specified in the XML declaration is not used by the XML reader to decode the data stream.&lt;/p&gt;\n</source>
+          <target state="new">A text reader returns a stream of Unicode characters, so the encoding specified in the XML declaration is not used by the XML reader to decode the data stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Create(TextReader, XmlReaderSettings)</source>
+          <target state="new">Create(TextReader, XmlReaderSettings)</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text reader from which to read the XML data.</source>
+          <target state="new">\n&lt;p&gt;The text reader from which to read the XML data.</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>A text reader returns a stream of Unicode characters, so the encoding specified in the XML declaration isn't used by the XML reader to decode the data stream.&lt;/p&gt;\n</source>
+          <target state="new">A text reader returns a stream of Unicode characters, so the encoding specified in the XML declaration isn't used by the XML reader to decode the data stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>Create(TextReader, XmlReaderSettings, XmlParserContext)</source>
+          <target state="new">Create(TextReader, XmlReaderSettings, XmlParserContext)</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text reader from which to read the XML data.</source>
+          <target state="new">\n&lt;p&gt;The text reader from which to read the XML data.</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>A text reader returns a stream of Unicode characters, so the encoding specified in the XML declaration isn't used by the XML reader to decode the data stream.&lt;/p&gt;\n</source>
+          <target state="new">A text reader returns a stream of Unicode characters, so the encoding specified in the XML declaration isn't used by the XML reader to decode the data stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;input&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>Create(String)</source>
+          <target state="new">Create(String)</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;inputUri&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;inputUri&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file identified by the URI does not exist.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The file identified by the URI does not exist.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>Create(String, XmlReaderSettings)</source>
+          <target state="new">Create(String, XmlReaderSettings)</target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that is used to read the XML data in the stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;inputUri&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;inputUri&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file specified by the URI cannot be found.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The file specified by the URI cannot be found.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>Create(XmlReader, XmlReaderSettings)</source>
+          <target state="new">Create(XmlReader, XmlReaderSettings)</target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object that you want to use as the underlying XML reader.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The object that you want to use as the underlying XML reader.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;reader&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;reader&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>Dispose()</source>
+          <target state="new">Dispose()</target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>Dispose(Boolean)</source>
+          <target state="new">Dispose(Boolean)</target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to release both managed and unmanaged resources; &lt;strong&gt;false&lt;/strong&gt; to release only unmanaged resources.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to release both managed and unmanaged resources; &lt;strong&gt;false&lt;/strong&gt; to release only unmanaged resources.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>GetAttribute(Int32)</source>
+          <target state="new">GetAttribute(Int32)</target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the attribute.</source>
+          <target state="new">\n&lt;p&gt;The index of the attribute.</target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>The index is zero-based.</source>
+          <target state="new">The index is zero-based.</target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>(The first attribute has index 0.)&lt;/p&gt;\n</source>
+          <target state="new">(The first attribute has index 0.)&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified attribute.</source>
+          <target state="new">\n&lt;p&gt;The value of the specified attribute.</target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>This method does not move the reader.&lt;/p&gt;\n</source>
+          <target state="new">This method does not move the reader.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;i&lt;/em&gt; is out of range.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;i&lt;/em&gt; is out of range.</target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>It must be non-negative and less than the size of the attribute collection.&lt;/p&gt;\n</source>
+          <target state="new">It must be non-negative and less than the size of the attribute collection.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>GetAttribute(String)</source>
+          <target state="new">GetAttribute(String)</target>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The qualified name of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The qualified name of the attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified attribute.</source>
+          <target state="new">\n&lt;p&gt;The value of the specified attribute.</target>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>If the attribute is not found or the value is &lt;strong&gt;String.Empty&lt;/strong&gt;, &lt;strong&gt;null&lt;/strong&gt; is returned.&lt;/p&gt;\n</source>
+          <target state="new">If the attribute is not found or the value is &lt;strong&gt;String.Empty&lt;/strong&gt;, &lt;strong&gt;null&lt;/strong&gt; is returned.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>GetAttribute(String, String)</source>
+          <target state="new">GetAttribute(String, String)</target>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified attribute.</source>
+          <target state="new">\n&lt;p&gt;The value of the specified attribute.</target>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>If the attribute is not found or the value is &lt;strong&gt;String.Empty&lt;/strong&gt;, &lt;strong&gt;null&lt;/strong&gt; is returned.</source>
+          <target state="new">If the attribute is not found or the value is &lt;strong&gt;String.Empty&lt;/strong&gt;, &lt;strong&gt;null&lt;/strong&gt; is returned.</target>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>This method does not move the reader.&lt;/p&gt;\n</source>
+          <target state="new">This method does not move the reader.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>GetValueAsync()</source>
+          <target state="new">GetValueAsync()</target>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the current node.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value of the current node.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>IsName(String)</source>
+          <target state="new">IsName(String)</target>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name to validate.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The name to validate.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the name is valid; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the name is valid; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;str&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;str&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>IsNameToken(String)</source>
+          <target state="new">IsNameToken(String)</target>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name token to validate.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The name token to validate.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if it is a valid name token; otherwise &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if it is a valid name token; otherwise &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;str&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;str&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>IsStartElement()</source>
+          <target state="new">IsStartElement()</target>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Incorrect XML is encountered in the input stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Incorrect XML is encountered in the input stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>IsStartElement(String)</source>
+          <target state="new">IsStartElement(String)</target>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string matched against the &lt;strong&gt;Name&lt;/strong&gt; property of the element found.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string matched against the &lt;strong&gt;Name&lt;/strong&gt; property of the element found.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the resulting node is an element and the &lt;strong&gt;Name&lt;/strong&gt; property matches the specified string.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the resulting node is an element and the &lt;strong&gt;Name&lt;/strong&gt; property matches the specified string.</target>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>&lt;strong&gt;false&lt;/strong&gt; if a node type other than &lt;strong&gt;XmlNodeType.Element&lt;/strong&gt; was found or if the element &lt;strong&gt;Name&lt;/strong&gt; property does not match the specified string.&lt;/p&gt;\n</source>
+          <target state="new">&lt;strong&gt;false&lt;/strong&gt; if a node type other than &lt;strong&gt;XmlNodeType.Element&lt;/strong&gt; was found or if the element &lt;strong&gt;Name&lt;/strong&gt; property does not match the specified string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Incorrect XML is encountered in the input stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Incorrect XML is encountered in the input stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>IsStartElement(String, String)</source>
+          <target state="new">IsStartElement(String, String)</target>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string to match against the &lt;strong&gt;LocalName&lt;/strong&gt; property of the element found.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string to match against the &lt;strong&gt;LocalName&lt;/strong&gt; property of the element found.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string to match against the &lt;strong&gt;NamespaceURI&lt;/strong&gt; property of the element found.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string to match against the &lt;strong&gt;NamespaceURI&lt;/strong&gt; property of the element found.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the resulting node is an element.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the resulting node is an element.</target>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>&lt;strong&gt;false&lt;/strong&gt; if a node type other than &lt;strong&gt;XmlNodeType.Element&lt;/strong&gt; was found or if the &lt;strong&gt;LocalName&lt;/strong&gt; and &lt;strong&gt;NamespaceURI&lt;/strong&gt; properties of the element do not match the specified strings.&lt;/p&gt;\n</source>
+          <target state="new">&lt;strong&gt;false&lt;/strong&gt; if a node type other than &lt;strong&gt;XmlNodeType.Element&lt;/strong&gt; was found or if the &lt;strong&gt;LocalName&lt;/strong&gt; and &lt;strong&gt;NamespaceURI&lt;/strong&gt; properties of the element do not match the specified strings.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Incorrect XML is encountered in the input stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Incorrect XML is encountered in the input stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>LookupNamespace(String)</source>
+          <target state="new">LookupNamespace(String)</target>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The prefix whose namespace URI you want to resolve.</source>
+          <target state="new">\n&lt;p&gt;The prefix whose namespace URI you want to resolve.</target>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>To match the default namespace, pass an empty string.</source>
+          <target state="new">To match the default namespace, pass an empty string.</target>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI to which the prefix maps or &lt;strong&gt;null&lt;/strong&gt; if no matching prefix is found.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI to which the prefix maps or &lt;strong&gt;null&lt;/strong&gt; if no matching prefix is found.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>MoveToAttribute(Int32)</source>
+          <target state="new">MoveToAttribute(Int32)</target>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The index of the attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The parameter has a negative value.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The parameter has a negative value.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>MoveToAttribute(String)</source>
+          <target state="new">MoveToAttribute(String)</target>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The qualified name of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The qualified name of the attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the attribute is found; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the attribute is found; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>If &lt;strong&gt;false&lt;/strong&gt;, the reader's position does not change.&lt;/p&gt;\n</source>
+          <target state="new">If &lt;strong&gt;false&lt;/strong&gt;, the reader's position does not change.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The parameter is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The parameter is an empty string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>MoveToAttribute(String, String)</source>
+          <target state="new">MoveToAttribute(String, String)</target>
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the attribute.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the attribute is found; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the attribute is found; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>If &lt;strong&gt;false&lt;/strong&gt;, the reader's position does not change.&lt;/p&gt;\n</source>
+          <target state="new">If &lt;strong&gt;false&lt;/strong&gt;, the reader's position does not change.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Both parameter values are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Both parameter values are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>MoveToContent()</source>
+          <target state="new">MoveToContent()</target>
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Incorrect XML encountered in the input stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Incorrect XML encountered in the input stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>MoveToContentAsync()</source>
+          <target state="new">MoveToContentAsync()</target>
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>MoveToElement()</source>
+          <target state="new">MoveToElement()</target>
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the reader is positioned on an attribute (the reader moves to the element that owns the attribute); &lt;strong&gt;false&lt;/strong&gt; if the reader is not positioned on an attribute (the position of the reader does not change).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the reader is positioned on an attribute (the reader moves to the element that owns the attribute); &lt;strong&gt;false&lt;/strong&gt; if the reader is not positioned on an attribute (the position of the reader does not change).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>MoveToFirstAttribute()</source>
+          <target state="new">MoveToFirstAttribute()</target>
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if an attribute exists (the reader moves to the first attribute); otherwise, &lt;strong&gt;false&lt;/strong&gt; (the position of the reader does not change).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if an attribute exists (the reader moves to the first attribute); otherwise, &lt;strong&gt;false&lt;/strong&gt; (the position of the reader does not change).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>MoveToNextAttribute()</source>
+          <target state="new">MoveToNextAttribute()</target>
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if there is a next attribute; &lt;strong&gt;false&lt;/strong&gt; if there are no more attributes.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if there is a next attribute; &lt;strong&gt;false&lt;/strong&gt; if there are no more attributes.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>Read()</source>
+          <target state="new">Read()</target>
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the next node was read successfully; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the next node was read successfully; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred while parsing the XML.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An error occurred while parsing the XML.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>ReadAsync()</source>
+          <target state="new">ReadAsync()</target>
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the next node was read successfully; &lt;strong&gt;false&lt;/strong&gt; if there are no more nodes to read.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the next node was read successfully; &lt;strong&gt;false&lt;/strong&gt; if there are no more nodes to read.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>ReadAttributeValue()</source>
+          <target state="new">ReadAttributeValue()</target>
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>ReadContentAs(Type, IXmlNamespaceResolver)</source>
+          <target state="new">ReadContentAs(Type, IXmlNamespaceResolver)</target>
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The concatenated text content or attribute value converted to the requested type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The concatenated text content or attribute value converted to the requested type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The content is not in the correct format for the target type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The content is not in the correct format for the target type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;returnType&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;returnType&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current node is not a supported node type.</source>
+          <target state="new">\n&lt;p&gt;The current node is not a supported node type.</target>
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>See the table below for details.&lt;/p&gt;\n</source>
+          <target state="new">See the table below for details.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Read &lt;strong&gt;Decimal.MaxValue&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Read &lt;strong&gt;Decimal.MaxValue&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>ReadContentAsAsync(Type, IXmlNamespaceResolver)</source>
+          <target state="new">ReadContentAsAsync(Type, IXmlNamespaceResolver)</target>
+        </trans-unit>
+        <trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the value to be returned.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The type of the value to be returned.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The concatenated text content or attribute value converted to the requested type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The concatenated text content or attribute value converted to the requested type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>ReadContentAsBase64(Byte[], Int32, Int32)</source>
+          <target state="new">ReadContentAsBase64(Byte[], Int32, Int32)</target>
+        </trans-unit>
+        <trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer into which to copy the resulting text.</source>
+          <target state="new">\n&lt;p&gt;The buffer into which to copy the resulting text.</target>
+        </trans-unit>
+        <trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</source>
+          <target state="new">The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index into the buffer or index + count is larger than the allocated buffer size.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The index into the buffer or index + count is larger than the allocated buffer size.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>ReadContentAsBase64Async(Byte[], Int32, Int32)</source>
+          <target state="new">ReadContentAsBase64Async(Byte[], Int32, Int32)</target>
+        </trans-unit>
+        <trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer into which to copy the resulting text.</source>
+          <target state="new">\n&lt;p&gt;The buffer into which to copy the resulting text.</target>
+        </trans-unit>
+        <trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</source>
+          <target state="new">The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>ReadContentAsBinHex(Byte[], Int32, Int32)</source>
+          <target state="new">ReadContentAsBinHex(Byte[], Int32, Int32)</target>
+        </trans-unit>
+        <trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer into which to copy the resulting text.</source>
+          <target state="new">\n&lt;p&gt;The buffer into which to copy the resulting text.</target>
+        </trans-unit>
+        <trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</source>
+          <target state="new">The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index into the buffer or index + count is larger than the allocated buffer size.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The index into the buffer or index + count is larger than the allocated buffer size.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>ReadContentAsBinHexAsync(Byte[], Int32, Int32)</source>
+          <target state="new">ReadContentAsBinHexAsync(Byte[], Int32, Int32)</target>
+        </trans-unit>
+        <trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer into which to copy the resulting text.</source>
+          <target state="new">\n&lt;p&gt;The buffer into which to copy the resulting text.</target>
+        </trans-unit>
+        <trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</source>
+          <target state="new">The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>ReadContentAsBoolean()</source>
+          <target state="new">ReadContentAsBoolean()</target>
+        </trans-unit>
+        <trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>ReadContentAsDateTimeOffset()</source>
+          <target state="new">ReadContentAsDateTimeOffset()</target>
+        </trans-unit>
+        <trans-unit id="320" translate="yes" xml:space="preserve">
+          <source>ReadContentAsDecimal()</source>
+          <target state="new">ReadContentAsDecimal()</target>
+        </trans-unit>
+        <trans-unit id="321" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="323" translate="yes" xml:space="preserve">
+          <source>ReadContentAsDouble()</source>
+          <target state="new">ReadContentAsDouble()</target>
+        </trans-unit>
+        <trans-unit id="324" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text content as a double-precision floating-point number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The text content as a double-precision floating-point number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="325" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="326" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="327" translate="yes" xml:space="preserve">
+          <source>ReadContentAsFloat()</source>
+          <target state="new">ReadContentAsFloat()</target>
+        </trans-unit>
+        <trans-unit id="328" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text content at the current position as a single-precision floating point number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The text content at the current position as a single-precision floating point number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="329" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="330" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="331" translate="yes" xml:space="preserve">
+          <source>ReadContentAsInt()</source>
+          <target state="new">ReadContentAsInt()</target>
+        </trans-unit>
+        <trans-unit id="332" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text content as a 32-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The text content as a 32-bit signed integer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="333" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="334" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="335" translate="yes" xml:space="preserve">
+          <source>ReadContentAsLong()</source>
+          <target state="new">ReadContentAsLong()</target>
+        </trans-unit>
+        <trans-unit id="336" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text content as a 64-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The text content as a 64-bit signed integer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="337" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="338" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="339" translate="yes" xml:space="preserve">
+          <source>ReadContentAsObject()</source>
+          <target state="new">ReadContentAsObject()</target>
+        </trans-unit>
+        <trans-unit id="340" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text content as the most appropriate common language runtime (CLR) object.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The text content as the most appropriate common language runtime (CLR) object.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="341" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="342" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="343" translate="yes" xml:space="preserve">
+          <source>ReadContentAsObjectAsync()</source>
+          <target state="new">ReadContentAsObjectAsync()</target>
+        </trans-unit>
+        <trans-unit id="344" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text content as the most appropriate common language runtime (CLR) object.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The text content as the most appropriate common language runtime (CLR) object.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="345" translate="yes" xml:space="preserve">
+          <source>ReadContentAsString()</source>
+          <target state="new">ReadContentAsString()</target>
+        </trans-unit>
+        <trans-unit id="346" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The attempted cast is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="347" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string format is not valid.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="348" translate="yes" xml:space="preserve">
+          <source>ReadContentAsStringAsync()</source>
+          <target state="new">ReadContentAsStringAsync()</target>
+        </trans-unit>
+        <trans-unit id="349" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAs(Type, IXmlNamespaceResolver)</source>
+          <target state="new">ReadElementContentAs(Type, IXmlNamespaceResolver)</target>
+        </trans-unit>
+        <trans-unit id="350" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element content converted to the requested typed object.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element content converted to the requested typed object.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="351" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="352" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="353" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Read &lt;strong&gt;Decimal.MaxValue&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Read &lt;strong&gt;Decimal.MaxValue&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="354" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAs(Type, IXmlNamespaceResolver, String, String)</source>
+          <target state="new">ReadElementContentAs(Type, IXmlNamespaceResolver, String, String)</target>
+        </trans-unit>
+        <trans-unit id="355" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="356" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="357" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element content converted to the requested typed object.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element content converted to the requested typed object.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="358" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="359" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="360" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="361" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Read &lt;strong&gt;Decimal.MaxValue&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Read &lt;strong&gt;Decimal.MaxValue&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="362" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsAsync(Type, IXmlNamespaceResolver)</source>
+          <target state="new">ReadElementContentAsAsync(Type, IXmlNamespaceResolver)</target>
+        </trans-unit>
+        <trans-unit id="363" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the value to be returned.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The type of the value to be returned.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="364" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element content converted to the requested typed object.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element content converted to the requested typed object.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="365" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsBase64(Byte[], Int32, Int32)</source>
+          <target state="new">ReadElementContentAsBase64(Byte[], Int32, Int32)</target>
+        </trans-unit>
+        <trans-unit id="366" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer into which to copy the resulting text.</source>
+          <target state="new">\n&lt;p&gt;The buffer into which to copy the resulting text.</target>
+        </trans-unit>
+        <trans-unit id="367" translate="yes" xml:space="preserve">
+          <source>This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="368" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="369" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="370" translate="yes" xml:space="preserve">
+          <source>The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</source>
+          <target state="new">The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="371" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="372" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="373" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current node is not an element node.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current node is not an element node.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="374" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index into the buffer or index + count is larger than the allocated buffer size.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The index into the buffer or index + count is larger than the allocated buffer size.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="375" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element contains mixed-content.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element contains mixed-content.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="376" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The content cannot be converted to the requested type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The content cannot be converted to the requested type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="377" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsBase64Async(Byte[], Int32, Int32)</source>
+          <target state="new">ReadElementContentAsBase64Async(Byte[], Int32, Int32)</target>
+        </trans-unit>
+        <trans-unit id="378" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer into which to copy the resulting text.</source>
+          <target state="new">\n&lt;p&gt;The buffer into which to copy the resulting text.</target>
+        </trans-unit>
+        <trans-unit id="379" translate="yes" xml:space="preserve">
+          <source>This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="380" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="381" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="382" translate="yes" xml:space="preserve">
+          <source>The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</source>
+          <target state="new">The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="383" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="384" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsBinHex(Byte[], Int32, Int32)</source>
+          <target state="new">ReadElementContentAsBinHex(Byte[], Int32, Int32)</target>
+        </trans-unit>
+        <trans-unit id="385" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer into which to copy the resulting text.</source>
+          <target state="new">\n&lt;p&gt;The buffer into which to copy the resulting text.</target>
+        </trans-unit>
+        <trans-unit id="386" translate="yes" xml:space="preserve">
+          <source>This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="387" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="388" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="389" translate="yes" xml:space="preserve">
+          <source>The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</source>
+          <target state="new">The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="390" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="391" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="392" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current node is not an element node.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current node is not an element node.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="393" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index into the buffer or index + count is larger than the allocated buffer size.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The index into the buffer or index + count is larger than the allocated buffer size.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="394" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element contains mixed-content.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element contains mixed-content.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="395" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The content cannot be converted to the requested type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The content cannot be converted to the requested type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="396" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsBinHexAsync(Byte[], Int32, Int32)</source>
+          <target state="new">ReadElementContentAsBinHexAsync(Byte[], Int32, Int32)</target>
+        </trans-unit>
+        <trans-unit id="397" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer into which to copy the resulting text.</source>
+          <target state="new">\n&lt;p&gt;The buffer into which to copy the resulting text.</target>
+        </trans-unit>
+        <trans-unit id="398" translate="yes" xml:space="preserve">
+          <source>This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="399" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The offset into the buffer where to start copying the result.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="400" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The maximum number of bytes to copy into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="401" translate="yes" xml:space="preserve">
+          <source>The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</source>
+          <target state="new">The actual number of bytes copied is returned from this method.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="402" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number of bytes written to the buffer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="403" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsBoolean()</source>
+          <target state="new">ReadElementContentAsBoolean()</target>
+        </trans-unit>
+        <trans-unit id="404" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="405" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsBoolean(String, String)</source>
+          <target state="new">ReadElementContentAsBoolean(String, String)</target>
+        </trans-unit>
+        <trans-unit id="406" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="407" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="408" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="409" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="410" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="411" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsDecimal()</source>
+          <target state="new">ReadElementContentAsDecimal()</target>
+        </trans-unit>
+        <trans-unit id="412" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="413" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsDecimal(String, String)</source>
+          <target state="new">ReadElementContentAsDecimal(String, String)</target>
+        </trans-unit>
+        <trans-unit id="414" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="415" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="416" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="417" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="418" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsDouble()</source>
+          <target state="new">ReadElementContentAsDouble()</target>
+        </trans-unit>
+        <trans-unit id="419" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element content as a double-precision floating-point number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element content as a double-precision floating-point number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="420" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a double-precision floating-point number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a double-precision floating-point number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="421" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="422" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsDouble(String, String)</source>
+          <target state="new">ReadElementContentAsDouble(String, String)</target>
+        </trans-unit>
+        <trans-unit id="423" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="424" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="425" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element content as a double-precision floating-point number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element content as a double-precision floating-point number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="426" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="427" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="428" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="429" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsFloat()</source>
+          <target state="new">ReadElementContentAsFloat()</target>
+        </trans-unit>
+        <trans-unit id="430" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element content as a single-precision floating point number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element content as a single-precision floating point number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="431" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a single-precision floating-point number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a single-precision floating-point number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="432" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="433" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsFloat(String, String)</source>
+          <target state="new">ReadElementContentAsFloat(String, String)</target>
+        </trans-unit>
+        <trans-unit id="434" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="435" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="436" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element content as a single-precision floating point number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element content as a single-precision floating point number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="437" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a single-precision floating-point number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a single-precision floating-point number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="438" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="439" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="440" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsInt()</source>
+          <target state="new">ReadElementContentAsInt()</target>
+        </trans-unit>
+        <trans-unit id="441" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element content as a 32-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element content as a 32-bit signed integer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="442" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a 32-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a 32-bit signed integer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="443" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="444" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsInt(String, String)</source>
+          <target state="new">ReadElementContentAsInt(String, String)</target>
+        </trans-unit>
+        <trans-unit id="445" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="446" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="447" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element content as a 32-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element content as a 32-bit signed integer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="448" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a 32-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a 32-bit signed integer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="449" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="450" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="451" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsLong()</source>
+          <target state="new">ReadElementContentAsLong()</target>
+        </trans-unit>
+        <trans-unit id="452" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element content as a 64-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element content as a 64-bit signed integer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="453" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a 64-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a 64-bit signed integer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="454" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="455" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsLong(String, String)</source>
+          <target state="new">ReadElementContentAsLong(String, String)</target>
+        </trans-unit>
+        <trans-unit id="456" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="457" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="458" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element content as a 64-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The element content as a 64-bit signed integer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="459" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a 64-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to a 64-bit signed integer.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="460" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="461" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="462" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsObject()</source>
+          <target state="new">ReadElementContentAsObject()</target>
+        </trans-unit>
+        <trans-unit id="463" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="464" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="465" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsObject(String, String)</source>
+          <target state="new">ReadElementContentAsObject(String, String)</target>
+        </trans-unit>
+        <trans-unit id="466" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="467" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="468" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current element contains child elements.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The element content cannot be converted to the requested type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="469" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="470" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="471" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsObjectAsync()</source>
+          <target state="new">ReadElementContentAsObjectAsync()</target>
+        </trans-unit>
+        <trans-unit id="472" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsString()</source>
+          <target state="new">ReadElementContentAsString()</target>
+        </trans-unit>
+        <trans-unit id="473" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="474" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsString(String, String)</source>
+          <target state="new">ReadElementContentAsString(String, String)</target>
+        </trans-unit>
+        <trans-unit id="475" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="476" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="477" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The method is called with &lt;strong&gt;null&lt;/strong&gt; arguments.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="478" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The specified local name and namespace URI do not match that of the current element being read.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="479" translate="yes" xml:space="preserve">
+          <source>ReadElementContentAsStringAsync()</source>
+          <target state="new">ReadElementContentAsStringAsync()</target>
+        </trans-unit>
+        <trans-unit id="480" translate="yes" xml:space="preserve">
+          <source>ReadEndElement()</source>
+          <target state="new">ReadEndElement()</target>
+        </trans-unit>
+        <trans-unit id="481" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current node is not an end tag or if incorrect XML is encountered in the input stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current node is not an end tag or if incorrect XML is encountered in the input stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="482" translate="yes" xml:space="preserve">
+          <source>ReadInnerXml()</source>
+          <target state="new">ReadInnerXml()</target>
+        </trans-unit>
+        <trans-unit id="483" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;All the XML content, including markup, in the current node.</source>
+          <target state="new">\n&lt;p&gt;All the XML content, including markup, in the current node.</target>
+        </trans-unit>
+        <trans-unit id="484" translate="yes" xml:space="preserve">
+          <source>If the current node has no children, an empty string is returned.&lt;/p&gt;\n&lt;p&gt;If the current node is neither an element nor attribute, an empty string is returned.&lt;/p&gt;\n</source>
+          <target state="new">If the current node has no children, an empty string is returned.&lt;/p&gt;\n&lt;p&gt;If the current node is neither an element nor attribute, an empty string is returned.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="485" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The XML was not well-formed, or an error occurred while parsing the XML.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The XML was not well-formed, or an error occurred while parsing the XML.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="486" translate="yes" xml:space="preserve">
+          <source>ReadInnerXmlAsync()</source>
+          <target state="new">ReadInnerXmlAsync()</target>
+        </trans-unit>
+        <trans-unit id="487" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;All the XML content, including markup, in the current node.</source>
+          <target state="new">\n&lt;p&gt;All the XML content, including markup, in the current node.</target>
+        </trans-unit>
+        <trans-unit id="488" translate="yes" xml:space="preserve">
+          <source>If the current node has no children, an empty string is returned.&lt;/p&gt;\n</source>
+          <target state="new">If the current node has no children, an empty string is returned.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="489" translate="yes" xml:space="preserve">
+          <source>ReadOuterXml()</source>
+          <target state="new">ReadOuterXml()</target>
+        </trans-unit>
+        <trans-unit id="490" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If the reader is positioned on an element or an attribute node, this method returns all the XML content, including markup, of the current node and all its children; otherwise, it returns an empty string.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;If the reader is positioned on an element or an attribute node, this method returns all the XML content, including markup, of the current node and all its children; otherwise, it returns an empty string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="491" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The XML was not well-formed, or an error occurred while parsing the XML.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The XML was not well-formed, or an error occurred while parsing the XML.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="492" translate="yes" xml:space="preserve">
+          <source>ReadOuterXmlAsync()</source>
+          <target state="new">ReadOuterXmlAsync()</target>
+        </trans-unit>
+        <trans-unit id="493" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If the reader is positioned on an element or an attribute node, this method returns all the XML content, including markup, of the current node and all its children; otherwise, it returns an empty string.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;If the reader is positioned on an element or an attribute node, this method returns all the XML content, including markup, of the current node and all its children; otherwise, it returns an empty string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="494" translate="yes" xml:space="preserve">
+          <source>ReadStartElement()</source>
+          <target state="new">ReadStartElement()</target>
+        </trans-unit>
+        <trans-unit id="495" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Incorrect XML was encountered in the input stream.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Incorrect XML was encountered in the input stream.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="496" translate="yes" xml:space="preserve">
+          <source>ReadStartElement(String)</source>
+          <target state="new">ReadStartElement(String)</target>
+        </trans-unit>
+        <trans-unit id="497" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The qualified name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The qualified name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="498" translate="yes" xml:space="preserve">
+          <source>ReadStartElement(String, String)</source>
+          <target state="new">ReadStartElement(String, String)</target>
+        </trans-unit>
+        <trans-unit id="499" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="500" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="501" translate="yes" xml:space="preserve">
+          <source>ReadSubtree()</source>
+          <target state="new">ReadSubtree()</target>
+        </trans-unit>
+        <trans-unit id="502" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The XML reader isn't positioned on an element when this method is called.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The XML reader isn't positioned on an element when this method is called.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="503" translate="yes" xml:space="preserve">
+          <source>ReadToDescendant(String)</source>
+          <target state="new">ReadToDescendant(String)</target>
+        </trans-unit>
+        <trans-unit id="504" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The qualified name of the element you wish to move to.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The qualified name of the element you wish to move to.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="505" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The parameter is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The parameter is an empty string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="506" translate="yes" xml:space="preserve">
+          <source>ReadToDescendant(String, String)</source>
+          <target state="new">ReadToDescendant(String, String)</target>
+        </trans-unit>
+        <trans-unit id="507" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element you wish to move to.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element you wish to move to.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="508" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element you wish to move to.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element you wish to move to.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="509" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Both parameter values are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Both parameter values are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="510" translate="yes" xml:space="preserve">
+          <source>ReadToFollowing(String)</source>
+          <target state="new">ReadToFollowing(String)</target>
+        </trans-unit>
+        <trans-unit id="511" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The qualified name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The qualified name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="512" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The parameter is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The parameter is an empty string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="513" translate="yes" xml:space="preserve">
+          <source>ReadToFollowing(String, String)</source>
+          <target state="new">ReadToFollowing(String, String)</target>
+        </trans-unit>
+        <trans-unit id="514" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="515" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the element.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="516" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Both parameter values are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Both parameter values are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="517" translate="yes" xml:space="preserve">
+          <source>ReadToNextSibling(String)</source>
+          <target state="new">ReadToNextSibling(String)</target>
+        </trans-unit>
+        <trans-unit id="518" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The qualified name of the sibling element you wish to move to.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The qualified name of the sibling element you wish to move to.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="519" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The parameter is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The parameter is an empty string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="520" translate="yes" xml:space="preserve">
+          <source>ReadToNextSibling(String, String)</source>
+          <target state="new">ReadToNextSibling(String, String)</target>
+        </trans-unit>
+        <trans-unit id="521" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The local name of the sibling element you wish to move to.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The local name of the sibling element you wish to move to.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="522" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The namespace URI of the sibling element you wish to move to.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The namespace URI of the sibling element you wish to move to.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="523" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Both parameter values are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Both parameter values are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="524" translate="yes" xml:space="preserve">
+          <source>ReadValueChunk(Char[], Int32, Int32)</source>
+          <target state="new">ReadValueChunk(Char[], Int32, Int32)</target>
+        </trans-unit>
+        <trans-unit id="525" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of characters that serves as the buffer to which the text contents are written.</source>
+          <target state="new">\n&lt;p&gt;The array of characters that serves as the buffer to which the text contents are written.</target>
+        </trans-unit>
+        <trans-unit id="526" translate="yes" xml:space="preserve">
+          <source>This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="527" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of characters to copy into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The maximum number of characters to copy into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="528" translate="yes" xml:space="preserve">
+          <source>The actual number of characters copied is returned from this method.&lt;/p&gt;\n</source>
+          <target state="new">The actual number of characters copied is returned from this method.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="529" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of characters read into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The number of characters read into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="530" translate="yes" xml:space="preserve">
+          <source>The value zero is returned when there is no more text content.&lt;/p&gt;\n</source>
+          <target state="new">The value zero is returned when there is no more text content.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="531" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="532" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index into the buffer, or index + count is larger than the allocated buffer size.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The index into the buffer, or index + count is larger than the allocated buffer size.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="533" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The XML data is not well-formed.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The XML data is not well-formed.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="534" translate="yes" xml:space="preserve">
+          <source>ReadValueChunkAsync(Char[], Int32, Int32)</source>
+          <target state="new">ReadValueChunkAsync(Char[], Int32, Int32)</target>
+        </trans-unit>
+        <trans-unit id="535" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of characters that serves as the buffer to which the text contents are written.</source>
+          <target state="new">\n&lt;p&gt;The array of characters that serves as the buffer to which the text contents are written.</target>
+        </trans-unit>
+        <trans-unit id="536" translate="yes" xml:space="preserve">
+          <source>This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">This value cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="537" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of characters to copy into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The maximum number of characters to copy into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="538" translate="yes" xml:space="preserve">
+          <source>The actual number of characters copied is returned from this method.&lt;/p&gt;\n</source>
+          <target state="new">The actual number of characters copied is returned from this method.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="539" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of characters read into the buffer.</source>
+          <target state="new">\n&lt;p&gt;The number of characters read into the buffer.</target>
+        </trans-unit>
+        <trans-unit id="540" translate="yes" xml:space="preserve">
+          <source>The value zero is returned when there is no more text content.&lt;/p&gt;\n</source>
+          <target state="new">The value zero is returned when there is no more text content.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="541" translate="yes" xml:space="preserve">
+          <source>ResolveEntity()</source>
+          <target state="new">ResolveEntity()</target>
+        </trans-unit>
+        <trans-unit id="542" translate="yes" xml:space="preserve">
+          <source>Skip()</source>
+          <target state="new">Skip()</target>
+        </trans-unit>
+        <trans-unit id="543" translate="yes" xml:space="preserve">
+          <source>SkipAsync()</source>
+          <target state="new">SkipAsync()</target>
+        </trans-unit>
+        <trans-unit id="544" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current node.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The current node.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="545" translate="yes" xml:space="preserve">
+          <source>System.Xml</source>
+          <target state="new">System.Xml</target>
+        </trans-unit>
+        <trans-unit id="546" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="547" translate="yes" xml:space="preserve">
+          <source>IDisposable</source>
+          <target state="new">IDisposable</target>
+        </trans-unit>
+        <trans-unit id="548" translate="yes" xml:space="preserve">
+          <source>ToString()</source>
+          <target state="new">ToString()</target>
+        </trans-unit>
+        <trans-unit id="549" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="550" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="551" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="552" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="553" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="554" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="555" translate="yes" xml:space="preserve">
+          <source>Equals(Object)</source>
+          <target state="new">Equals(Object)</target>
+        </trans-unit>
+        <trans-unit id="556" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="557" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="558" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="559" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="560" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="561" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="562" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="563" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="564" translate="yes" xml:space="preserve">
+          <source>Equals(Object, Object)</source>
+          <target state="new">Equals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="565" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="566" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="567" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="568" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="569" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="570" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="571" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="572" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="573" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="574" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="575" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="576" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="577" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals(Object, Object)</source>
+          <target state="new">ReferenceEquals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="578" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="579" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="580" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="581" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="582" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="583" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="584" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="585" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="586" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="587" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="588" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="589" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="590" translate="yes" xml:space="preserve">
+          <source>GetHashCode()</source>
+          <target state="new">GetHashCode()</target>
+        </trans-unit>
+        <trans-unit id="591" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="592" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="593" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="594" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="595" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="596" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="597" translate="yes" xml:space="preserve">
+          <source>GetType()</source>
+          <target state="new">GetType()</target>
+        </trans-unit>
+        <trans-unit id="598" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="599" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="600" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="601" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="602" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="603" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="604" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone()</source>
+          <target state="new">MemberwiseClone()</target>
+        </trans-unit>
+        <trans-unit id="605" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone</source>
+          <target state="new">MemberwiseClone</target>
+        </trans-unit>
+        <trans-unit id="606" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="607" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="608" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone</source>
+          <target state="new">MemberwiseClone</target>
+        </trans-unit>
+        <trans-unit id="609" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="610" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="611" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="612" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="613" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="614" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="615" translate="yes" xml:space="preserve">
+          <source>XmlNameTable</source>
+          <target state="new">XmlNameTable</target>
+        </trans-unit>
+        <trans-unit id="616" translate="yes" xml:space="preserve">
+          <source>XmlNodeType</source>
+          <target state="new">XmlNodeType</target>
+        </trans-unit>
+        <trans-unit id="617" translate="yes" xml:space="preserve">
+          <source>ReadState</source>
+          <target state="new">ReadState</target>
+        </trans-unit>
+        <trans-unit id="618" translate="yes" xml:space="preserve">
+          <source>XmlReaderSettings</source>
+          <target state="new">XmlReaderSettings</target>
+        </trans-unit>
+        <trans-unit id="619" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="620" translate="yes" xml:space="preserve">
+          <source>XmlSpace</source>
+          <target state="new">XmlSpace</target>
+        </trans-unit>
+        <trans-unit id="621" translate="yes" xml:space="preserve">
+          <source>Stream</source>
+          <target state="new">Stream</target>
+        </trans-unit>
+        <trans-unit id="622" translate="yes" xml:space="preserve">
+          <source>XmlReader</source>
+          <target state="new">XmlReader</target>
+        </trans-unit>
+        <trans-unit id="623" translate="yes" xml:space="preserve">
+          <source>System.IO</source>
+          <target state="new">System.IO</target>
+        </trans-unit>
+        <trans-unit id="624" translate="yes" xml:space="preserve">
+          <source>XmlParserContext</source>
+          <target state="new">XmlParserContext</target>
+        </trans-unit>
+        <trans-unit id="625" translate="yes" xml:space="preserve">
+          <source>TextReader</source>
+          <target state="new">TextReader</target>
+        </trans-unit>
+        <trans-unit id="626" translate="yes" xml:space="preserve">
+          <source>Dispose()</source>
+          <target state="new">Dispose()</target>
+        </trans-unit>
+        <trans-unit id="627" translate="yes" xml:space="preserve">
+          <source>Dispose</source>
+          <target state="new">Dispose</target>
+        </trans-unit>
+        <trans-unit id="628" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="629" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="630" translate="yes" xml:space="preserve">
+          <source>Dispose</source>
+          <target state="new">Dispose</target>
+        </trans-unit>
+        <trans-unit id="631" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="632" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="633" translate="yes" xml:space="preserve">
+          <source>Task&lt;String&gt;</source>
+          <target state="new">Task&lt;String&gt;</target>
+        </trans-unit>
+        <trans-unit id="634" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="635" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="636" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="637" translate="yes" xml:space="preserve">
+          <source>(Of</source>
+          <target state="new">(Of</target>
+        </trans-unit>
+        <trans-unit id="638" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="639" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="640" translate="yes" xml:space="preserve">
+          <source>Task&lt;TResult&gt;</source>
+          <target state="new">Task&lt;TResult&gt;</target>
+        </trans-unit>
+        <trans-unit id="641" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="642" translate="yes" xml:space="preserve">
+          <source>TResult</source>
+          <target state="new">TResult</target>
+        </trans-unit>
+        <trans-unit id="643" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="644" translate="yes" xml:space="preserve">
+          <source>(Of</source>
+          <target state="new">(Of</target>
+        </trans-unit>
+        <trans-unit id="645" translate="yes" xml:space="preserve">
+          <source>TResult</source>
+          <target state="new">TResult</target>
+        </trans-unit>
+        <trans-unit id="646" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="647" translate="yes" xml:space="preserve">
+          <source>System.Threading.Tasks</source>
+          <target state="new">System.Threading.Tasks</target>
+        </trans-unit>
+        <trans-unit id="648" translate="yes" xml:space="preserve">
+          <source>Task&lt;XmlNodeType&gt;</source>
+          <target state="new">Task&lt;XmlNodeType&gt;</target>
+        </trans-unit>
+        <trans-unit id="649" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="650" translate="yes" xml:space="preserve">
+          <source>XmlNodeType</source>
+          <target state="new">XmlNodeType</target>
+        </trans-unit>
+        <trans-unit id="651" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="652" translate="yes" xml:space="preserve">
+          <source>(Of</source>
+          <target state="new">(Of</target>
+        </trans-unit>
+        <trans-unit id="653" translate="yes" xml:space="preserve">
+          <source>XmlNodeType</source>
+          <target state="new">XmlNodeType</target>
+        </trans-unit>
+        <trans-unit id="654" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="655" translate="yes" xml:space="preserve">
+          <source>Task&lt;Boolean&gt;</source>
+          <target state="new">Task&lt;Boolean&gt;</target>
+        </trans-unit>
+        <trans-unit id="656" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="657" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="658" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="659" translate="yes" xml:space="preserve">
+          <source>(Of</source>
+          <target state="new">(Of</target>
+        </trans-unit>
+        <trans-unit id="660" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="661" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="662" translate="yes" xml:space="preserve">
+          <source>IXmlNamespaceResolver</source>
+          <target state="new">IXmlNamespaceResolver</target>
+        </trans-unit>
+        <trans-unit id="663" translate="yes" xml:space="preserve">
+          <source>Task&lt;Object&gt;</source>
+          <target state="new">Task&lt;Object&gt;</target>
+        </trans-unit>
+        <trans-unit id="664" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="665" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="666" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="667" translate="yes" xml:space="preserve">
+          <source>(Of</source>
+          <target state="new">(Of</target>
+        </trans-unit>
+        <trans-unit id="668" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="669" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="670" translate="yes" xml:space="preserve">
+          <source>Byte[]</source>
+          <target state="new">Byte[]</target>
+        </trans-unit>
+        <trans-unit id="671" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="672" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="673" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="674" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="675" translate="yes" xml:space="preserve">
+          <source>Task&lt;Int32&gt;</source>
+          <target state="new">Task&lt;Int32&gt;</target>
+        </trans-unit>
+        <trans-unit id="676" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="677" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="678" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="679" translate="yes" xml:space="preserve">
+          <source>(Of</source>
+          <target state="new">(Of</target>
+        </trans-unit>
+        <trans-unit id="680" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="681" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="682" translate="yes" xml:space="preserve">
+          <source>DateTimeOffset</source>
+          <target state="new">DateTimeOffset</target>
+        </trans-unit>
+        <trans-unit id="683" translate="yes" xml:space="preserve">
+          <source>Decimal</source>
+          <target state="new">Decimal</target>
+        </trans-unit>
+        <trans-unit id="684" translate="yes" xml:space="preserve">
+          <source>Double</source>
+          <target state="new">Double</target>
+        </trans-unit>
+        <trans-unit id="685" translate="yes" xml:space="preserve">
+          <source>Single</source>
+          <target state="new">Single</target>
+        </trans-unit>
+        <trans-unit id="686" translate="yes" xml:space="preserve">
+          <source>Int64</source>
+          <target state="new">Int64</target>
+        </trans-unit>
+        <trans-unit id="687" translate="yes" xml:space="preserve">
+          <source>Char[]</source>
+          <target state="new">Char[]</target>
+        </trans-unit>
+        <trans-unit id="688" translate="yes" xml:space="preserve">
+          <source>Char</source>
+          <target state="new">Char</target>
+        </trans-unit>
+        <trans-unit id="689" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="690" translate="yes" xml:space="preserve">
+          <source>Char</source>
+          <target state="new">Char</target>
+        </trans-unit>
+        <trans-unit id="691" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="692" translate="yes" xml:space="preserve">
+          <source>Task</source>
+          <target state="new">Task</target>
+        </trans-unit>
+        <trans-unit id="693" translate="yes" xml:space="preserve">
+          <source>InvalidOperationException</source>
+          <target state="new">InvalidOperationException</target>
+        </trans-unit>
+        <trans-unit id="694" translate="yes" xml:space="preserve">
+          <source>ArgumentNullException</source>
+          <target state="new">ArgumentNullException</target>
+        </trans-unit>
+        <trans-unit id="695" translate="yes" xml:space="preserve">
+          <source>SecurityException</source>
+          <target state="new">SecurityException</target>
+        </trans-unit>
+        <trans-unit id="696" translate="yes" xml:space="preserve">
+          <source>ArgumentException</source>
+          <target state="new">ArgumentException</target>
+        </trans-unit>
+        <trans-unit id="697" translate="yes" xml:space="preserve">
+          <source>FileNotFoundException</source>
+          <target state="new">FileNotFoundException</target>
+        </trans-unit>
+        <trans-unit id="698" translate="yes" xml:space="preserve">
+          <source>UriFormatException</source>
+          <target state="new">UriFormatException</target>
+        </trans-unit>
+        <trans-unit id="699" translate="yes" xml:space="preserve">
+          <source>ArgumentOutOfRangeException</source>
+          <target state="new">ArgumentOutOfRangeException</target>
+        </trans-unit>
+        <trans-unit id="700" translate="yes" xml:space="preserve">
+          <source>XmlException</source>
+          <target state="new">XmlException</target>
+        </trans-unit>
+        <trans-unit id="701" translate="yes" xml:space="preserve">
+          <source>FormatException</source>
+          <target state="new">FormatException</target>
+        </trans-unit>
+        <trans-unit id="702" translate="yes" xml:space="preserve">
+          <source>InvalidCastException</source>
+          <target state="new">InvalidCastException</target>
+        </trans-unit>
+        <trans-unit id="703" translate="yes" xml:space="preserve">
+          <source>OverflowException</source>
+          <target state="new">OverflowException</target>
+        </trans-unit>
+        <trans-unit id="704" translate="yes" xml:space="preserve">
+          <source>NotSupportedException</source>
+          <target state="new">NotSupportedException</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

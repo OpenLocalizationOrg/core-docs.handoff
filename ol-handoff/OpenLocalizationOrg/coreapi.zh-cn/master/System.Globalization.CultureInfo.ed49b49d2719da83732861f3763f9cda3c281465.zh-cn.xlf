@@ -1,0 +1,614 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1009cf9634b1623e552fde0edc328d69dc0bbc06</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Globalization.CultureInfo.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">46d21d321dd6dc7ee087ddec4a0c7a05714cc61d</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>CultureInfo</source>
+          <target state="new">CultureInfo</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>CultureInfo(String)</source>
+          <target state="new">CultureInfo(String)</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is null.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is null.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is not a valid culture name.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is not a valid culture name.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For more information, see the Notes to Callers section.</source>
+          <target state="new">For more information, see the Notes to Callers section.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Calendar</source>
+          <target state="new">Calendar</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>CompareInfo</source>
+          <target state="new">CompareInfo</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>CurrentCulture</source>
+          <target state="new">CurrentCulture</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that represents the culture used by the current thread.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that represents the culture used by the current thread.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is set to &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The property is set to &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>CurrentUICulture</source>
+          <target state="new">CurrentUICulture</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The culture used by the Resource Manager to look up culture-specific resources at run time.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The culture used by the Resource Manager to look up culture-specific resources at run time.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is set to &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The property is set to &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is set to a culture name that cannot be used to locate a resource file.</source>
+          <target state="new">\n&lt;p&gt;The property is set to a culture name that cannot be used to locate a resource file.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Resource filenames can include only letters, numbers, hyphens, or underscores.</source>
+          <target state="new">Resource filenames can include only letters, numbers, hyphens, or underscores.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>DateTimeFormat</source>
+          <target state="new">DateTimeFormat</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is set to null.</source>
+          <target state="new">\n&lt;p&gt;The property is set to null.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>DefaultThreadCurrentCulture</source>
+          <target state="new">DefaultThreadCurrentCulture</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The default culture for threads in the current application domain, or &lt;strong&gt;null&lt;/strong&gt; if the current system culture is the default thread culture in the application domain.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The default culture for threads in the current application domain, or &lt;strong&gt;null&lt;/strong&gt; if the current system culture is the default thread culture in the application domain.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>DefaultThreadCurrentUICulture</source>
+          <target state="new">DefaultThreadCurrentUICulture</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The default UI culture for threads in the current application domain, or &lt;strong&gt;null&lt;/strong&gt; if the current system UI culture is the default thread UI culture in the application domain.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The default UI culture for threads in the current application domain, or &lt;strong&gt;null&lt;/strong&gt; if the current system UI culture is the default thread UI culture in the application domain.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>DisplayName</source>
+          <target state="new">DisplayName</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The full localized culture name in the format languagefull [country/regionfull], where languagefull is the full name of the language and country/regionfull is the full name of the country/region.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The full localized culture name in the format languagefull [country/regionfull], where languagefull is the full name of the language and country/regionfull is the full name of the country/region.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>EnglishName</source>
+          <target state="new">EnglishName</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The culture name in the format languagefull [country/regionfull] in English, where languagefull is the full name of the language and country/regionfull is the full name of the country/region.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The culture name in the format languagefull [country/regionfull] in English, where languagefull is the full name of the language and country/regionfull is the full name of the country/region.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>InvariantCulture</source>
+          <target state="new">InvariantCulture</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object that is culture-independent (invariant).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The object that is culture-independent (invariant).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>IsNeutralCulture</source>
+          <target state="new">IsNeutralCulture</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>IsReadOnly</source>
+          <target state="new">IsReadOnly</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The culture name in the format languagecode2-country/regioncode2.</source>
+          <target state="new">\n&lt;p&gt;The culture name in the format languagecode2-country/regioncode2.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>languagecode2 is a lowercase two-letter code derived from ISO 639-1.</source>
+          <target state="new">languagecode2 is a lowercase two-letter code derived from ISO 639-1.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>country/regioncode2 is derived from ISO 3166 and usually consists of two uppercase letters, or a BCP-47 language tag.</source>
+          <target state="new">country/regioncode2 is derived from ISO 3166 and usually consists of two uppercase letters, or a BCP-47 language tag.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>NativeName</source>
+          <target state="new">NativeName</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>NumberFormat</source>
+          <target state="new">NumberFormat</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is set to null.</source>
+          <target state="new">\n&lt;p&gt;The property is set to null.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>OptionalCalendars</source>
+          <target state="new">OptionalCalendars</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Parent</source>
+          <target state="new">Parent</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>TextInfo</source>
+          <target state="new">TextInfo</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>TwoLetterISOLanguageName</source>
+          <target state="new">TwoLetterISOLanguageName</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Clone()</source>
+          <target state="new">Clone()</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Equals(Object)</source>
+          <target state="new">Equals(Object)</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>GetFormat(Type)</source>
+          <target state="new">GetFormat(Type)</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>GetHashCode()</source>
+          <target state="new">GetHashCode()</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>ReadOnly(CultureInfo)</source>
+          <target state="new">ReadOnly(CultureInfo)</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;ci&lt;/em&gt; is null.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;ci&lt;/em&gt; is null.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>ToString()</source>
+          <target state="new">ToString()</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>System.Globalization</source>
+          <target state="new">System.Globalization</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>IFormatProvider</source>
+          <target state="new">IFormatProvider</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Equals(Object, Object)</source>
+          <target state="new">Equals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals(Object, Object)</source>
+          <target state="new">ReferenceEquals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>GetType()</source>
+          <target state="new">GetType()</target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone()</source>
+          <target state="new">MemberwiseClone()</target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone</source>
+          <target state="new">MemberwiseClone</target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone</source>
+          <target state="new">MemberwiseClone</target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>Calendar</source>
+          <target state="new">Calendar</target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>CompareInfo</source>
+          <target state="new">CompareInfo</target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>CultureInfo</source>
+          <target state="new">CultureInfo</target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>DateTimeFormatInfo</source>
+          <target state="new">DateTimeFormatInfo</target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>NumberFormatInfo</source>
+          <target state="new">NumberFormatInfo</target>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>Calendar[]</source>
+          <target state="new">Calendar[]</target>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>Calendar</source>
+          <target state="new">Calendar</target>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>Calendar</source>
+          <target state="new">Calendar</target>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>TextInfo</source>
+          <target state="new">TextInfo</target>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>Equals(Object)</source>
+          <target state="new">Equals(Object)</target>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>GetFormat(Type)</source>
+          <target state="new">GetFormat(Type)</target>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>GetFormat</source>
+          <target state="new">GetFormat</target>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>GetFormat</source>
+          <target state="new">GetFormat</target>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>GetHashCode()</source>
+          <target state="new">GetHashCode()</target>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>ToString()</source>
+          <target state="new">ToString()</target>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>ArgumentNullException</source>
+          <target state="new">ArgumentNullException</target>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>CultureNotFoundException</source>
+          <target state="new">CultureNotFoundException</target>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>ArgumentException</source>
+          <target state="new">ArgumentException</target>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>InvalidOperationException</source>
+          <target state="new">InvalidOperationException</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

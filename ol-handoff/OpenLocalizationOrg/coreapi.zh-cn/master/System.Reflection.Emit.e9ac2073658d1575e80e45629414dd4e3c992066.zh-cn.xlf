@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6f3c8e0bdff13fd8f86a836675c29cfc67faf679</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Reflection.Emit.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">45f4429702afe3f6f37a6e121a8e701f332e66ac</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>System.Reflection.Emit</source>
+          <target state="new">System.Reflection.Emit</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>AssemblyBuilder</source>
+          <target state="new">AssemblyBuilder</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>AssemblyBuilderAccess</source>
+          <target state="new">AssemblyBuilderAccess</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>ConstructorBuilder</source>
+          <target state="new">ConstructorBuilder</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>EnumBuilder</source>
+          <target state="new">EnumBuilder</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>EventBuilder</source>
+          <target state="new">EventBuilder</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>FieldBuilder</source>
+          <target state="new">FieldBuilder</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>GenericTypeParameterBuilder</source>
+          <target state="new">GenericTypeParameterBuilder</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>MethodBuilder</source>
+          <target state="new">MethodBuilder</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>ModuleBuilder</source>
+          <target state="new">ModuleBuilder</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>PropertyBuilder</source>
+          <target state="new">PropertyBuilder</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>TypeBuilder</source>
+          <target state="new">TypeBuilder</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>CustomAttributeBuilder</source>
+          <target state="new">CustomAttributeBuilder</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>ILGenerator</source>
+          <target state="new">ILGenerator</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Label</source>
+          <target state="new">Label</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>LocalBuilder</source>
+          <target state="new">LocalBuilder</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>ParameterBuilder</source>
+          <target state="new">ParameterBuilder</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>SignatureHelper</source>
+          <target state="new">SignatureHelper</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>FlowControl</source>
+          <target state="new">FlowControl</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>OpCode</source>
+          <target state="new">OpCode</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>OpCodes</source>
+          <target state="new">OpCodes</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>OpCodeType</source>
+          <target state="new">OpCodeType</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>OperandType</source>
+          <target state="new">OperandType</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>PackingSize</source>
+          <target state="new">PackingSize</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>StackBehaviour</source>
+          <target state="new">StackBehaviour</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>DynamicMethod</source>
+          <target state="new">DynamicMethod</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>System.Reflection.Emit</source>
+          <target state="new">System.Reflection.Emit</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

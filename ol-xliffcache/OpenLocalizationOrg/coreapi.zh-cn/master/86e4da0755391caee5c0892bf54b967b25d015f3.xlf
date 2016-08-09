@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">86e4da0755391caee5c0892bf54b967b25d015f3</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Net.Http.Headers.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f95e4bcda7d87e74d0ca78f46313ea1a60b4e1cf</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>System.Net.Http.Headers</source>
+          <target state="new">System.Net.Http.Headers</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>AuthenticationHeaderValue</source>
+          <target state="new">AuthenticationHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>CacheControlHeaderValue</source>
+          <target state="new">CacheControlHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>ContentDispositionHeaderValue</source>
+          <target state="new">ContentDispositionHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>ContentRangeHeaderValue</source>
+          <target state="new">ContentRangeHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>EntityTagHeaderValue</source>
+          <target state="new">EntityTagHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>HttpContentHeaders</source>
+          <target state="new">HttpContentHeaders</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>HttpHeaders</source>
+          <target state="new">HttpHeaders</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>HttpHeaderValueCollection&lt;T&gt;</source>
+          <target state="new">HttpHeaderValueCollection&lt;T&gt;</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>HttpHeaderValueCollection</source>
+          <target state="new">HttpHeaderValueCollection</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>T</source>
+          <target state="new">T</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>HttpHeaderValueCollection</source>
+          <target state="new">HttpHeaderValueCollection</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>(Of</source>
+          <target state="new">(Of</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>T</source>
+          <target state="new">T</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>HttpRequestHeaders</source>
+          <target state="new">HttpRequestHeaders</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>HttpResponseHeaders</source>
+          <target state="new">HttpResponseHeaders</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>MediaTypeHeaderValue</source>
+          <target state="new">MediaTypeHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>MediaTypeWithQualityHeaderValue</source>
+          <target state="new">MediaTypeWithQualityHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>NameValueHeaderValue</source>
+          <target state="new">NameValueHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>NameValueWithParametersHeaderValue</source>
+          <target state="new">NameValueWithParametersHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>ProductHeaderValue</source>
+          <target state="new">ProductHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>ProductInfoHeaderValue</source>
+          <target state="new">ProductInfoHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>RangeConditionHeaderValue</source>
+          <target state="new">RangeConditionHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>RangeHeaderValue</source>
+          <target state="new">RangeHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>RangeItemHeaderValue</source>
+          <target state="new">RangeItemHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>RetryConditionHeaderValue</source>
+          <target state="new">RetryConditionHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>StringWithQualityHeaderValue</source>
+          <target state="new">StringWithQualityHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>TransferCodingHeaderValue</source>
+          <target state="new">TransferCodingHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>TransferCodingWithQualityHeaderValue</source>
+          <target state="new">TransferCodingWithQualityHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>ViaHeaderValue</source>
+          <target state="new">ViaHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>WarningHeaderValue</source>
+          <target state="new">WarningHeaderValue</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>System.Net.Http.Headers</source>
+          <target state="new">System.Net.Http.Headers</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

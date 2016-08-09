@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">51190b404495122a895462b725f8287cc816cc4c</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Runtime.InteropServices.ComTypes.ITypeLib2.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">311d9ef61e74b3dbd64371aa9e1baae1c6b32266</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>ITypeLib2</source>
+          <target state="new">ITypeLib2</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>FindName(String, Int32, ITypeInfo[], Int32[], ref Int16)</source>
+          <target state="new">FindName(String, Int32, ITypeInfo[], Int32[], ref Int16)</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name to search for.</source>
+          <target state="new">\n&lt;p&gt;The name to search for.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A hash value to speed up the search, computed by the &lt;strong&gt;LHashValOfNameSys&lt;/strong&gt; function.</source>
+          <target state="new">\n&lt;p&gt;A hash value to speed up the search, computed by the &lt;strong&gt;LHashValOfNameSys&lt;/strong&gt; function.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>If &lt;em&gt;lHashVal&lt;/em&gt; is 0, a value is computed.</source>
+          <target state="new">If &lt;em&gt;lHashVal&lt;/em&gt; is 0, a value is computed.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains an array of pointers to the type descriptions that contain the name specified in &lt;em&gt;szNameBuf&lt;/em&gt;.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains an array of pointers to the type descriptions that contain the name specified in &lt;em&gt;szNameBuf&lt;/em&gt;.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.</source>
+          <target state="new">This parameter is passed uninitialized.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains an array of the &lt;strong&gt;MEMBERID&lt;/strong&gt;s of the found items; &lt;em&gt;rgMemId&lt;/em&gt; [i] is the &lt;strong&gt;MEMBERID&lt;/strong&gt; that indexes into the type description specified by &lt;em&gt;ppTInfo&lt;/em&gt; [i].</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains an array of the &lt;strong&gt;MEMBERID&lt;/strong&gt;s of the found items; &lt;em&gt;rgMemId&lt;/em&gt; [i] is the &lt;strong&gt;MEMBERID&lt;/strong&gt; that indexes into the type description specified by &lt;em&gt;ppTInfo&lt;/em&gt; [i].</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>This parameter cannot be &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">This parameter cannot be &lt;strong&gt;null&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.</source>
+          <target state="new">This parameter is passed uninitialized.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;On entry, a value, passed by reference, that indicates how many instances to look for.</source>
+          <target state="new">\n&lt;p&gt;On entry, a value, passed by reference, that indicates how many instances to look for.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>For example, &lt;em&gt;pcFound&lt;/em&gt; = 1 can be called to find the first occurrence.</source>
+          <target state="new">For example, &lt;em&gt;pcFound&lt;/em&gt; = 1 can be called to find the first occurrence.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The search stops when one instance is found.&lt;/p&gt;\n&lt;p&gt;On exit, indicates the number of instances that were found.</source>
+          <target state="new">The search stops when one instance is found.&lt;/p&gt;\n&lt;p&gt;On exit, indicates the number of instances that were found.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>If the &lt;strong&gt;in&lt;/strong&gt; and &lt;strong&gt;out&lt;/strong&gt; values of &lt;em&gt;pcFound&lt;/em&gt; are identical, there might be more type descriptions that contain the name.</source>
+          <target state="new">If the &lt;strong&gt;in&lt;/strong&gt; and &lt;strong&gt;out&lt;/strong&gt; values of &lt;em&gt;pcFound&lt;/em&gt; are identical, there might be more type descriptions that contain the name.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>GetAllCustData(IntPtr)</source>
+          <target state="new">GetAllCustData(IntPtr)</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A pointer to &lt;strong&gt;CUSTDATA&lt;/strong&gt;, which holds all custom data items.</source>
+          <target state="new">\n&lt;p&gt;A pointer to &lt;strong&gt;CUSTDATA&lt;/strong&gt;, which holds all custom data items.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>GetCustData(ref Guid, out Object)</source>
+          <target state="new">GetCustData(ref Guid, out Object)</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains an object that specifies where to put the retrieved data.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains an object that specifies where to put the retrieved data.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>GetDocumentation(Int32, out String, out String, out Int32, out String)</source>
+          <target state="new">GetDocumentation(Int32, out String, out String, out Int32, out String)</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An index of the type description whose documentation is to be returned.</source>
+          <target state="new">\n&lt;p&gt;An index of the type description whose documentation is to be returned.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains a string that specifies the name of the specified item.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains a string that specifies the name of the specified item.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.</source>
+          <target state="new">This parameter is passed uninitialized.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the documentation string for the specified item.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains the documentation string for the specified item.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the Help context identifier associated with the specified item.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains the Help context identifier associated with the specified item.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.</source>
+          <target state="new">This parameter is passed uninitialized.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains a string that specifies the fully qualified name of the Help file.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains a string that specifies the fully qualified name of the Help file.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>GetDocumentation2(Int32, out String, out Int32, out String)</source>
+          <target state="new">GetDocumentation2(Int32, out String, out Int32, out String)</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An index of the type description whose documentation is to be returned; if &lt;em&gt;index&lt;/em&gt; is -1, the documentation for the library is returned.</source>
+          <target state="new">\n&lt;p&gt;An index of the type description whose documentation is to be returned; if &lt;em&gt;index&lt;/em&gt; is -1, the documentation for the library is returned.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains a BSTR that specifies the name of the specified item.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains a BSTR that specifies the name of the specified item.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>If the caller does not need the item name, &lt;em&gt;pbstrHelpString&lt;/em&gt; can be &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">If the caller does not need the item name, &lt;em&gt;pbstrHelpString&lt;/em&gt; can be &lt;strong&gt;null&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.</source>
+          <target state="new">This parameter is passed uninitialized.</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the Help localization context.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains the Help localization context.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>If the caller does not need the Help context, &lt;em&gt;pdwHelpStringContext&lt;/em&gt; can be &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">If the caller does not need the Help context, &lt;em&gt;pdwHelpStringContext&lt;/em&gt; can be &lt;strong&gt;null&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.</source>
+          <target state="new">This parameter is passed uninitialized.</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains a BSTR that specifies the fully qualified name of the file containing the DLL used for Help file.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains a BSTR that specifies the fully qualified name of the file containing the DLL used for Help file.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>If the caller does not need the file name, &lt;em&gt;pbstrHelpStringDll&lt;/em&gt; can be &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">If the caller does not need the file name, &lt;em&gt;pbstrHelpStringDll&lt;/em&gt; can be &lt;strong&gt;null&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>GetLibAttr(out IntPtr)</source>
+          <target state="new">GetLibAttr(out IntPtr)</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains a structure that contains the library's attributes.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains a structure that contains the library's attributes.</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.</source>
+          <target state="new">This parameter is passed uninitialized.</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>GetLibStatistics(IntPtr, out Int32)</source>
+          <target state="new">GetLibStatistics(IntPtr, out Int32)</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A pointer to a count of unique names.</source>
+          <target state="new">\n&lt;p&gt;A pointer to a count of unique names.</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>If the caller does not need this information, set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">If the caller does not need this information, set to &lt;strong&gt;null&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains a pointer to a change in the count of unique names.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains a pointer to a change in the count of unique names.</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.</source>
+          <target state="new">This parameter is passed uninitialized.</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>GetTypeComp(out ITypeComp)</source>
+          <target state="new">GetTypeComp(out ITypeComp)</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains an &lt;strong&gt;ITypeComp&lt;/strong&gt; instance for this &lt;strong&gt;ITypeLib&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains an &lt;strong&gt;ITypeComp&lt;/strong&gt; instance for this &lt;strong&gt;ITypeLib&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.</source>
+          <target state="new">This parameter is passed uninitialized.</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>GetTypeInfo(Int32, out ITypeInfo)</source>
+          <target state="new">GetTypeInfo(Int32, out ITypeInfo)</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An index of the &lt;strong&gt;ITypeInfo&lt;/strong&gt; interface to return.</source>
+          <target state="new">\n&lt;p&gt;An index of the &lt;strong&gt;ITypeInfo&lt;/strong&gt; interface to return.</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains an &lt;strong&gt;ITypeInfo&lt;/strong&gt; describing the type referenced by &lt;em&gt;index&lt;/em&gt;.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains an &lt;strong&gt;ITypeInfo&lt;/strong&gt; describing the type referenced by &lt;em&gt;index&lt;/em&gt;.</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.</source>
+          <target state="new">This parameter is passed uninitialized.</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>GetTypeInfoCount()</source>
+          <target state="new">GetTypeInfoCount()</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of type descriptions in the type library.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number of type descriptions in the type library.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>GetTypeInfoOfGuid(ref Guid, out ITypeInfo)</source>
+          <target state="new">GetTypeInfoOfGuid(ref Guid, out ITypeInfo)</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the requested &lt;strong&gt;ITypeInfo&lt;/strong&gt; interface.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains the requested &lt;strong&gt;ITypeInfo&lt;/strong&gt; interface.</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>GetTypeInfoType(Int32, out TYPEKIND)</source>
+          <target state="new">GetTypeInfoType(Int32, out TYPEKIND)</target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the type description within the type library.</source>
+          <target state="new">\n&lt;p&gt;The index of the type description within the type library.</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains a reference to the &lt;strong&gt;TYPEKIND&lt;/strong&gt; enumeration for the type description.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains a reference to the &lt;strong&gt;TYPEKIND&lt;/strong&gt; enumeration for the type description.</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>IsName(String, Int32)</source>
+          <target state="new">IsName(String, Int32)</target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string to test.</source>
+          <target state="new">\n&lt;p&gt;The string to test.</target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hash value of &lt;em&gt;szNameBuf&lt;/em&gt;.</source>
+          <target state="new">\n&lt;p&gt;The hash value of &lt;em&gt;szNameBuf&lt;/em&gt;.</target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;szNameBuf&lt;/em&gt; was found in the type library; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;szNameBuf&lt;/em&gt; was found in the type library; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>ReleaseTLibAttr(IntPtr)</source>
+          <target state="new">ReleaseTLibAttr(IntPtr)</target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;strong&gt;TLIBATTR&lt;/strong&gt; structure to release.</source>
+          <target state="new">\n&lt;p&gt;The &lt;strong&gt;TLIBATTR&lt;/strong&gt; structure to release.</target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>System.Runtime.InteropServices.ComTypes</source>
+          <target state="new">System.Runtime.InteropServices.ComTypes</target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>ITypeInfo[]</source>
+          <target state="new">ITypeInfo[]</target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>ITypeInfo</source>
+          <target state="new">ITypeInfo</target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>ITypeInfo</source>
+          <target state="new">ITypeInfo</target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>Int32[]</source>
+          <target state="new">Int32[]</target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>Int16</source>
+          <target state="new">Int16</target>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>IntPtr</source>
+          <target state="new">IntPtr</target>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>Guid</source>
+          <target state="new">Guid</target>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>ITypeComp</source>
+          <target state="new">ITypeComp</target>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>ITypeInfo</source>
+          <target state="new">ITypeInfo</target>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>TYPEKIND</source>
+          <target state="new">TYPEKIND</target>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

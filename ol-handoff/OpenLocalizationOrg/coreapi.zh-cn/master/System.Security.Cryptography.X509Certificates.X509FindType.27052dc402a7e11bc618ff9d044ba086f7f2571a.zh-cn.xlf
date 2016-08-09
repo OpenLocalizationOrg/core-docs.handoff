@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4a99e76e6e1ba2e52fdb9698a149711a685b2d75</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Security.Cryptography.X509Certificates.X509FindType.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c121027473ba14e3226c901df4e2fdf3b5ad13e2</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>X509FindType</source>
+          <target state="new">X509FindType</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>FindByApplicationPolicy</source>
+          <target state="new">FindByApplicationPolicy</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>FindByCertificatePolicy</source>
+          <target state="new">FindByCertificatePolicy</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>FindByExtension</source>
+          <target state="new">FindByExtension</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>FindByIssuerDistinguishedName</source>
+          <target state="new">FindByIssuerDistinguishedName</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>FindByIssuerName</source>
+          <target state="new">FindByIssuerName</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>FindByKeyUsage</source>
+          <target state="new">FindByKeyUsage</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>FindBySerialNumber</source>
+          <target state="new">FindBySerialNumber</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>FindBySubjectDistinguishedName</source>
+          <target state="new">FindBySubjectDistinguishedName</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>FindBySubjectKeyIdentifier</source>
+          <target state="new">FindBySubjectKeyIdentifier</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>FindBySubjectName</source>
+          <target state="new">FindBySubjectName</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>FindByTemplateName</source>
+          <target state="new">FindByTemplateName</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>FindByThumbprint</source>
+          <target state="new">FindByThumbprint</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>FindByTimeExpired</source>
+          <target state="new">FindByTimeExpired</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>FindByTimeNotYetValid</source>
+          <target state="new">FindByTimeNotYetValid</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>FindByTimeValid</source>
+          <target state="new">FindByTimeValid</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>System.Security.Cryptography.X509Certificates</source>
+          <target state="new">System.Security.Cryptography.X509Certificates</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>X509FindType</source>
+          <target state="new">X509FindType</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

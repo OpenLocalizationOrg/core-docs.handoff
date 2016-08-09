@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">00822a76f7894c0f2e5b8fe892874acc53a6821b</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Runtime.InteropServices.ComTypes.IPersistFile.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ccc995edc884298a633b8531c732904afc830e43</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>IPersistFile</source>
+          <target state="new">IPersistFile</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>GetClassID(out Guid)</source>
+          <target state="new">GetClassID(out Guid)</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains a reference to the CLSID.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains a reference to the CLSID.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>GetCurFile(out String)</source>
+          <target state="new">GetCurFile(out String)</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the address of a pointer to a zero-terminated string containing the path for the current file, or the default file name prompt (such as *.txt).</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains the address of a pointer to a zero-terminated string containing the path for the current file, or the default file name prompt (such as *.txt).</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>IsDirty()</source>
+          <target state="new">IsDirty()</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;S_OK&lt;/strong&gt; if the file has changed since it was last saved; &lt;strong&gt;S_FALSE&lt;/strong&gt; if the file has not changed since it was last saved.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;S_OK&lt;/strong&gt; if the file has changed since it was last saved; &lt;strong&gt;S_FALSE&lt;/strong&gt; if the file has not changed since it was last saved.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Load(String, Int32)</source>
+          <target state="new">Load(String, Int32)</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A zero-terminated string containing the absolute path of the file to open.</source>
+          <target state="new">\n&lt;p&gt;A zero-terminated string containing the absolute path of the file to open.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A combination of values from the &lt;strong&gt;STGM&lt;/strong&gt; enumeration to indicate the access mode in which to open &lt;em&gt;pszFileName&lt;/em&gt;.</source>
+          <target state="new">\n&lt;p&gt;A combination of values from the &lt;strong&gt;STGM&lt;/strong&gt; enumeration to indicate the access mode in which to open &lt;em&gt;pszFileName&lt;/em&gt;.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Save(String, Boolean)</source>
+          <target state="new">Save(String, Boolean)</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A zero-terminated string containing the absolute path of the file to which the object is saved.</source>
+          <target state="new">\n&lt;p&gt;A zero-terminated string containing the absolute path of the file to which the object is saved.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to used the &lt;em&gt;pszFileName&lt;/em&gt; parameter as the current working file; otherwise &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to used the &lt;em&gt;pszFileName&lt;/em&gt; parameter as the current working file; otherwise &lt;strong&gt;false&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>SaveCompleted(String)</source>
+          <target state="new">SaveCompleted(String)</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The absolute path of the file where the object was previously saved.</source>
+          <target state="new">\n&lt;p&gt;The absolute path of the file where the object was previously saved.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>System.Runtime.InteropServices.ComTypes</source>
+          <target state="new">System.Runtime.InteropServices.ComTypes</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Guid</source>
+          <target state="new">Guid</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

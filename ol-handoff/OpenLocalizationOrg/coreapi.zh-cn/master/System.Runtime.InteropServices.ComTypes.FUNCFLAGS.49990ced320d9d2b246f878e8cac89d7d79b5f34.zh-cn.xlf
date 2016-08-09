@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b550d48c999e80f7a7e69616c1546dfffeadde95</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Runtime.InteropServices.ComTypes.FUNCFLAGS.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">03c0ca39b9fbd60037f7069f012a763cd1535a03</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>FUNCFLAGS</source>
+          <target state="new">FUNCFLAGS</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FBINDABLE</source>
+          <target state="new">FUNCFLAG_FBINDABLE</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FDEFAULTBIND</source>
+          <target state="new">FUNCFLAG_FDEFAULTBIND</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FDEFAULTCOLLELEM</source>
+          <target state="new">FUNCFLAG_FDEFAULTCOLLELEM</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FDISPLAYBIND</source>
+          <target state="new">FUNCFLAG_FDISPLAYBIND</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FHIDDEN</source>
+          <target state="new">FUNCFLAG_FHIDDEN</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FIMMEDIATEBIND</source>
+          <target state="new">FUNCFLAG_FIMMEDIATEBIND</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FNONBROWSABLE</source>
+          <target state="new">FUNCFLAG_FNONBROWSABLE</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FREPLACEABLE</source>
+          <target state="new">FUNCFLAG_FREPLACEABLE</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FREQUESTEDIT</source>
+          <target state="new">FUNCFLAG_FREQUESTEDIT</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FRESTRICTED</source>
+          <target state="new">FUNCFLAG_FRESTRICTED</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FSOURCE</source>
+          <target state="new">FUNCFLAG_FSOURCE</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FUIDEFAULT</source>
+          <target state="new">FUNCFLAG_FUIDEFAULT</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>FUNCFLAG_FUSESGETLASTERROR</source>
+          <target state="new">FUNCFLAG_FUSESGETLASTERROR</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>System.Runtime.InteropServices.ComTypes</source>
+          <target state="new">System.Runtime.InteropServices.ComTypes</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>FUNCFLAGS</source>
+          <target state="new">FUNCFLAGS</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

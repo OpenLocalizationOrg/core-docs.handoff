@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b0c6cffb698d06831900e1c6b2877243cf200d32</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Text.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b0b90952b1098222c482f27ad442709fe9e386e3</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>System.Text</source>
+          <target state="new">System.Text</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>CodePagesEncodingProvider</source>
+          <target state="new">CodePagesEncodingProvider</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>StringBuilder</source>
+          <target state="new">StringBuilder</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>ASCIIEncoding</source>
+          <target state="new">ASCIIEncoding</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>UnicodeEncoding</source>
+          <target state="new">UnicodeEncoding</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>UTF32Encoding</source>
+          <target state="new">UTF32Encoding</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>UTF7Encoding</source>
+          <target state="new">UTF7Encoding</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>UTF8Encoding</source>
+          <target state="new">UTF8Encoding</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>NormalizationForm</source>
+          <target state="new">NormalizationForm</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Decoder</source>
+          <target state="new">Decoder</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>DecoderExceptionFallback</source>
+          <target state="new">DecoderExceptionFallback</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>DecoderFallback</source>
+          <target state="new">DecoderFallback</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>DecoderFallbackBuffer</source>
+          <target state="new">DecoderFallbackBuffer</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>DecoderFallbackException</source>
+          <target state="new">DecoderFallbackException</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>DecoderReplacementFallback</source>
+          <target state="new">DecoderReplacementFallback</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Encoder</source>
+          <target state="new">Encoder</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>EncoderExceptionFallback</source>
+          <target state="new">EncoderExceptionFallback</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>EncoderFallback</source>
+          <target state="new">EncoderFallback</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>EncoderFallbackBuffer</source>
+          <target state="new">EncoderFallbackBuffer</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>EncoderFallbackException</source>
+          <target state="new">EncoderFallbackException</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>EncoderReplacementFallback</source>
+          <target state="new">EncoderReplacementFallback</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Encoding</source>
+          <target state="new">Encoding</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>EncodingProvider</source>
+          <target state="new">EncodingProvider</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>System.Text</source>
+          <target state="new">System.Text</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7cc3111399bc379f5d4b5e190f1dcdf39321907b</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Security.Cryptography.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5a78871266a43eb595721d3eaf57a9c6bd927064</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>System.Security.Cryptography</source>
+          <target state="new">System.Security.Cryptography</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>AsnEncodedData</source>
+          <target state="new">AsnEncodedData</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Oid</source>
+          <target state="new">Oid</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>OidCollection</source>
+          <target state="new">OidCollection</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>OidEnumerator</source>
+          <target state="new">OidEnumerator</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>OidGroup</source>
+          <target state="new">OidGroup</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>AsnEncodedDataCollection</source>
+          <target state="new">AsnEncodedDataCollection</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>AsnEncodedDataEnumerator</source>
+          <target state="new">AsnEncodedDataEnumerator</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>CryptographicAttributeObject</source>
+          <target state="new">CryptographicAttributeObject</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>CryptographicAttributeObjectCollection</source>
+          <target state="new">CryptographicAttributeObjectCollection</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>CryptographicAttributeObjectEnumerator</source>
+          <target state="new">CryptographicAttributeObjectEnumerator</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>AsymmetricAlgorithm</source>
+          <target state="new">AsymmetricAlgorithm</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>CipherMode</source>
+          <target state="new">CipherMode</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>CryptographicException</source>
+          <target state="new">CryptographicException</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>CryptoStream</source>
+          <target state="new">CryptoStream</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>CryptoStreamMode</source>
+          <target state="new">CryptoStreamMode</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>HashAlgorithm</source>
+          <target state="new">HashAlgorithm</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>HashAlgorithmName</source>
+          <target state="new">HashAlgorithmName</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>HMAC</source>
+          <target state="new">HMAC</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>ICryptoTransform</source>
+          <target state="new">ICryptoTransform</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>KeyedHashAlgorithm</source>
+          <target state="new">KeyedHashAlgorithm</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>KeySizes</source>
+          <target state="new">KeySizes</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>PaddingMode</source>
+          <target state="new">PaddingMode</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>SymmetricAlgorithm</source>
+          <target state="new">SymmetricAlgorithm</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>CspKeyContainerInfo</source>
+          <target state="new">CspKeyContainerInfo</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>CspParameters</source>
+          <target state="new">CspParameters</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>CspProviderFlags</source>
+          <target state="new">CspProviderFlags</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>ICspAsymmetricAlgorithm</source>
+          <target state="new">ICspAsymmetricAlgorithm</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>KeyNumber</source>
+          <target state="new">KeyNumber</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>RSACryptoServiceProvider</source>
+          <target state="new">RSACryptoServiceProvider</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>AesCng</source>
+          <target state="new">AesCng</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>CngAlgorithm</source>
+          <target state="new">CngAlgorithm</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>CngAlgorithmGroup</source>
+          <target state="new">CngAlgorithmGroup</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>CngExportPolicies</source>
+          <target state="new">CngExportPolicies</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>CngKey</source>
+          <target state="new">CngKey</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>CngKeyBlobFormat</source>
+          <target state="new">CngKeyBlobFormat</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>CngKeyCreationOptions</source>
+          <target state="new">CngKeyCreationOptions</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>CngKeyCreationParameters</source>
+          <target state="new">CngKeyCreationParameters</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>CngKeyHandleOpenOptions</source>
+          <target state="new">CngKeyHandleOpenOptions</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>CngKeyOpenOptions</source>
+          <target state="new">CngKeyOpenOptions</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>CngKeyUsages</source>
+          <target state="new">CngKeyUsages</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>CngProperty</source>
+          <target state="new">CngProperty</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>CngPropertyCollection</source>
+          <target state="new">CngPropertyCollection</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>CngPropertyOptions</source>
+          <target state="new">CngPropertyOptions</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>CngProvider</source>
+          <target state="new">CngProvider</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>CngUIPolicy</source>
+          <target state="new">CngUIPolicy</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>CngUIProtectionLevels</source>
+          <target state="new">CngUIProtectionLevels</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>ECDsaCng</source>
+          <target state="new">ECDsaCng</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>RSACng</source>
+          <target state="new">RSACng</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>TripleDESCng</source>
+          <target state="new">TripleDESCng</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>ECDsaOpenSsl</source>
+          <target state="new">ECDsaOpenSsl</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>RSAOpenSsl</source>
+          <target state="new">RSAOpenSsl</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>SafeEvpPKeyHandle</source>
+          <target state="new">SafeEvpPKeyHandle</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>DataProtectionScope</source>
+          <target state="new">DataProtectionScope</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>ProtectedData</source>
+          <target state="new">ProtectedData</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Aes</source>
+          <target state="new">Aes</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>DeriveBytes</source>
+          <target state="new">DeriveBytes</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>ECCurve</source>
+          <target state="new">ECCurve</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>ECCurve.ECCurveType</source>
+          <target state="new">ECCurve.ECCurveType</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>ECCurve.NamedCurves</source>
+          <target state="new">ECCurve.NamedCurves</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>ECDsa</source>
+          <target state="new">ECDsa</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>ECParameters</source>
+          <target state="new">ECParameters</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>ECPoint</source>
+          <target state="new">ECPoint</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>HMACMD5</source>
+          <target state="new">HMACMD5</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>HMACSHA1</source>
+          <target state="new">HMACSHA1</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>HMACSHA256</source>
+          <target state="new">HMACSHA256</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>HMACSHA384</source>
+          <target state="new">HMACSHA384</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>HMACSHA512</source>
+          <target state="new">HMACSHA512</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>IncrementalHash</source>
+          <target state="new">IncrementalHash</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>MD5</source>
+          <target state="new">MD5</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>RandomNumberGenerator</source>
+          <target state="new">RandomNumberGenerator</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Rfc2898DeriveBytes</source>
+          <target state="new">Rfc2898DeriveBytes</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>RSA</source>
+          <target state="new">RSA</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>RSAEncryptionPadding</source>
+          <target state="new">RSAEncryptionPadding</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>RSAEncryptionPaddingMode</source>
+          <target state="new">RSAEncryptionPaddingMode</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>RSAParameters</source>
+          <target state="new">RSAParameters</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>RSASignaturePadding</source>
+          <target state="new">RSASignaturePadding</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>RSASignaturePaddingMode</source>
+          <target state="new">RSASignaturePaddingMode</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>SHA1</source>
+          <target state="new">SHA1</target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>SHA256</source>
+          <target state="new">SHA256</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>SHA384</source>
+          <target state="new">SHA384</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>SHA512</source>
+          <target state="new">SHA512</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>TripleDES</source>
+          <target state="new">TripleDES</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>System.Security.Cryptography</source>
+          <target state="new">System.Security.Cryptography</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

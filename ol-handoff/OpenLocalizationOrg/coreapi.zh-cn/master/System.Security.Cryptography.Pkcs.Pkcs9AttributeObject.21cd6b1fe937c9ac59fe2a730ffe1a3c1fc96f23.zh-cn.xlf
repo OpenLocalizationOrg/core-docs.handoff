@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">56e6a9e02499b5c207b897fb46cc64249dd71d95</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Security.Cryptography.Pkcs.Pkcs9AttributeObject.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c74076a56acad279aaf52228e4d44aa36d44c902</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Pkcs9AttributeObject</source>
+          <target state="new">Pkcs9AttributeObject</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Pkcs9AttributeObject()</source>
+          <target state="new">Pkcs9AttributeObject()</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Pkcs9AttributeObject(AsnEncodedData)</source>
+          <target state="new">Pkcs9AttributeObject(AsnEncodedData)</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the PKCS #9 attribute type and value to use.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the PKCS #9 attribute type and value to use.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the &lt;em&gt;Value&lt;/em&gt; member of the &lt;em&gt;Oid&lt;/em&gt; member of &lt;em&gt;asnEncodedData&lt;/em&gt; is zero.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The length of the &lt;em&gt;Value&lt;/em&gt; member of the &lt;em&gt;Oid&lt;/em&gt; member of &lt;em&gt;asnEncodedData&lt;/em&gt; is zero.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;Oid&lt;/em&gt; member of &lt;em&gt;asnEncodedData&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;Value&lt;/em&gt; member of the &lt;em&gt;Oid&lt;/em&gt; member of &lt;em&gt;asnEncodedData&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;Oid&lt;/em&gt; member of &lt;em&gt;asnEncodedData&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;Value&lt;/em&gt; member of the &lt;em&gt;Oid&lt;/em&gt; member of &lt;em&gt;asnEncodedData&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Pkcs9AttributeObject(Oid, Byte[])</source>
+          <target state="new">Pkcs9AttributeObject(Oid, Byte[])</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that represents the PKCS #9 attribute type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that represents the PKCS #9 attribute type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of byte values that represents the PKCS #9 attribute value.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An array of byte values that represents the PKCS #9 attribute value.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Pkcs9AttributeObject(String, Byte[])</source>
+          <target state="new">Pkcs9AttributeObject(String, Byte[])</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of an OID that represents the PKCS #9 attribute type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string representation of an OID that represents the PKCS #9 attribute type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of byte values that contains the PKCS #9 attribute value.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An array of byte values that contains the PKCS #9 attribute value.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Oid</source>
+          <target state="new">Oid</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>CopyFrom(AsnEncodedData)</source>
+          <target state="new">CopyFrom(AsnEncodedData)</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the PKCS #9 attribute type and value to use.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the PKCS #9 attribute type and value to use.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;asnEncodeData&lt;/em&gt; does not represent a compatible attribute type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;asnEncodeData&lt;/em&gt; does not represent a compatible attribute type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;asnEncodedData&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;asnEncodedData&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>System.Security.Cryptography.Pkcs</source>
+          <target state="new">System.Security.Cryptography.Pkcs</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>AsnEncodedData</source>
+          <target state="new">AsnEncodedData</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>System.Security.Cryptography</source>
+          <target state="new">System.Security.Cryptography</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Oid</source>
+          <target state="new">Oid</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Byte[]</source>
+          <target state="new">Byte[]</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>ArgumentException</source>
+          <target state="new">ArgumentException</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>ArgumentNullException</source>
+          <target state="new">ArgumentNullException</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

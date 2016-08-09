@@ -1,0 +1,826 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f70c450aa5185b69d47a94700c65da5a5b6e31ce</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Type.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">681a4c1191b98042866cb87d28d570672c4c6f67</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>EmptyTypes</source>
+          <target state="new">EmptyTypes</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Missing</source>
+          <target state="new">Missing</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Delimiter</source>
+          <target state="new">Delimiter</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>AssemblyQualifiedName</source>
+          <target state="new">AssemblyQualifiedName</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>FullName</source>
+          <target state="new">FullName</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The fully qualified name of the type, including its namespace but not its assembly; or &lt;strong&gt;null&lt;/strong&gt; if the current instance represents a generic type parameter, an array type, pointer type, or &lt;strong&gt;byref&lt;/strong&gt; type based on a type parameter, or a generic type that is not a generic type definition but contains unresolved type parameters.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The fully qualified name of the type, including its namespace but not its assembly; or &lt;strong&gt;null&lt;/strong&gt; if the current instance represents a generic type parameter, an array type, pointer type, or &lt;strong&gt;byref&lt;/strong&gt; type based on a type parameter, or a generic type that is not a generic type definition but contains unresolved type parameters.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>GenericParameterPosition</source>
+          <target state="new">GenericParameterPosition</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of a type parameter in the type parameter list of the generic type or method that defines the parameter.</source>
+          <target state="new">\n&lt;p&gt;The position of a type parameter in the type parameter list of the generic type or method that defines the parameter.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Position numbers begin at 0.&lt;/p&gt;\n</source>
+          <target state="new">Position numbers begin at 0.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>GenericTypeArguments</source>
+          <target state="new">GenericTypeArguments</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of the generic type arguments for this type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An array of the generic type arguments for this type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>HasElementType</source>
+          <target state="new">HasElementType</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>IsArray</source>
+          <target state="new">IsArray</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the current type is an array; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the current type is an array; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>IsByRef</source>
+          <target state="new">IsByRef</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>IsConstructedGenericType</source>
+          <target state="new">IsConstructedGenericType</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this object represents a constructed generic type; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this object represents a constructed generic type; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>IsGenericParameter</source>
+          <target state="new">IsGenericParameter</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>IsNested</source>
+          <target state="new">IsNested</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>IsPointer</source>
+          <target state="new">IsPointer</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Namespace</source>
+          <target state="new">Namespace</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>TypeHandle</source>
+          <target state="new">TypeHandle</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The .NET Compact Framework does not currently support this property.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The .NET Compact Framework does not currently support this property.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Equals(Object)</source>
+          <target state="new">Equals(Object)</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Equals(Type)</source>
+          <target state="new">Equals(Type)</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>GetArrayRank()</source>
+          <target state="new">GetArrayRank()</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer that contains the number of dimensions in the current type.</source>
+          <target state="new">\n&lt;p&gt;An integer that contains the number of dimensions in the current type.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The functionality of this method is unsupported in the base class and must be implemented in a derived class instead.</source>
+          <target state="new">\n&lt;p&gt;The functionality of this method is unsupported in the base class and must be implemented in a derived class instead.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current type is not an array.</source>
+          <target state="new">\n&lt;p&gt;The current type is not an array.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>GetElementType()</source>
+          <target state="new">GetElementType()</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>GetGenericTypeDefinition()</source>
+          <target state="new">GetGenericTypeDefinition()</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The invoked method is not supported in the base class.</source>
+          <target state="new">\n&lt;p&gt;The invoked method is not supported in the base class.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Derived classes must provide an implementation.&lt;/p&gt;\n</source>
+          <target state="new">Derived classes must provide an implementation.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>GetHashCode()</source>
+          <target state="new">GetHashCode()</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hash code for this instance.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The hash code for this instance.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>GetType(String)</source>
+          <target state="new">GetType(String)</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type with the specified name, if found; otherwise, &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The type with the specified name, if found; otherwise, &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;typeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;typeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A class initializer is invoked and throws an exception.</source>
+          <target state="new">\n&lt;p&gt;A class initializer is invoked and throws an exception.</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The assembly or one of its dependencies is not valid.</source>
+          <target state="new">\n&lt;p&gt;The assembly or one of its dependencies is not valid.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Version 2.0 or later of the common language runtime is currently loaded, and the assembly was compiled with a later version.&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Version 2.0 or later of the common language runtime is currently loaded, and the assembly was compiled with a later version.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>GetType(String, Boolean)</source>
+          <target state="new">GetType(String, Boolean)</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to throw an exception if the type cannot be found; &lt;strong&gt;false&lt;/strong&gt; to return &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to throw an exception if the type cannot be found; &lt;strong&gt;false&lt;/strong&gt; to return &lt;strong&gt;null&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Specifying &lt;strong&gt;false&lt;/strong&gt; also suppresses some other exception conditions, but not all of them.</source>
+          <target state="new">Specifying &lt;strong&gt;false&lt;/strong&gt; also suppresses some other exception conditions, but not all of them.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>See the Exceptions section.&lt;/p&gt;\n</source>
+          <target state="new">See the Exceptions section.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type with the specified name.</source>
+          <target state="new">\n&lt;p&gt;The type with the specified name.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>If the type is not found, the &lt;em&gt;throwOnError&lt;/em&gt; parameter specifies whether &lt;strong&gt;null&lt;/strong&gt; is returned or an exception is thrown.</source>
+          <target state="new">If the type is not found, the &lt;em&gt;throwOnError&lt;/em&gt; parameter specifies whether &lt;strong&gt;null&lt;/strong&gt; is returned or an exception is thrown.</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>In some cases, an exception is thrown regardless of the value of &lt;em&gt;throwOnError&lt;/em&gt;.</source>
+          <target state="new">In some cases, an exception is thrown regardless of the value of &lt;em&gt;throwOnError&lt;/em&gt;.</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>See the Exceptions section.</source>
+          <target state="new">See the Exceptions section.</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;typeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;typeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A class initializer is invoked and throws an exception.</source>
+          <target state="new">\n&lt;p&gt;A class initializer is invoked and throws an exception.</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;throwOnError&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt; and the assembly or one of its dependencies was not found.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;throwOnError&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt; and the assembly or one of its dependencies was not found.</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The assembly or one of its dependencies is not valid.</source>
+          <target state="new">\n&lt;p&gt;The assembly or one of its dependencies is not valid.</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Version 2.0 or later of the common language runtime is currently loaded, and the assembly was compiled with a later version.&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Version 2.0 or later of the common language runtime is currently loaded, and the assembly was compiled with a later version.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>GetType(String, Boolean, Boolean)</source>
+          <target state="new">GetType(String, Boolean, Boolean)</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to throw an exception if the type cannot be found; &lt;strong&gt;false&lt;/strong&gt; to return &lt;strong&gt;null&lt;/strong&gt;.Specifying &lt;strong&gt;false&lt;/strong&gt; also suppresses some other exception conditions, but not all of them.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to throw an exception if the type cannot be found; &lt;strong&gt;false&lt;/strong&gt; to return &lt;strong&gt;null&lt;/strong&gt;.Specifying &lt;strong&gt;false&lt;/strong&gt; also suppresses some other exception conditions, but not all of them.</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>See the Exceptions section.&lt;/p&gt;\n</source>
+          <target state="new">See the Exceptions section.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to perform a case-insensitive search for &lt;em&gt;typeName&lt;/em&gt;, &lt;strong&gt;false&lt;/strong&gt; to perform a case-sensitive search for &lt;em&gt;typeName&lt;/em&gt;.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to perform a case-insensitive search for &lt;em&gt;typeName&lt;/em&gt;, &lt;strong&gt;false&lt;/strong&gt; to perform a case-sensitive search for &lt;em&gt;typeName&lt;/em&gt;.</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type with the specified name.</source>
+          <target state="new">\n&lt;p&gt;The type with the specified name.</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>If the type is not found, the &lt;em&gt;throwOnError&lt;/em&gt; parameter specifies whether &lt;strong&gt;null&lt;/strong&gt; is returned or an exception is thrown.</source>
+          <target state="new">If the type is not found, the &lt;em&gt;throwOnError&lt;/em&gt; parameter specifies whether &lt;strong&gt;null&lt;/strong&gt; is returned or an exception is thrown.</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>In some cases, an exception is thrown regardless of the value of &lt;em&gt;throwOnError&lt;/em&gt;.</source>
+          <target state="new">In some cases, an exception is thrown regardless of the value of &lt;em&gt;throwOnError&lt;/em&gt;.</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>See the Exceptions section.</source>
+          <target state="new">See the Exceptions section.</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;typeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;typeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A class initializer is invoked and throws an exception.</source>
+          <target state="new">\n&lt;p&gt;A class initializer is invoked and throws an exception.</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;throwOnError&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt; and the assembly or one of its dependencies was not found.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;throwOnError&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt; and the assembly or one of its dependencies was not found.</target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The assembly or one of its dependencies was found, but could not be loaded.</source>
+          <target state="new">\n&lt;p&gt;The assembly or one of its dependencies was found, but could not be loaded.</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The assembly or one of its dependencies is not valid.</source>
+          <target state="new">\n&lt;p&gt;The assembly or one of its dependencies is not valid.</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Version 2.0 or later of the common language runtime is currently loaded, and the assembly was compiled with a later version.&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Version 2.0 or later of the common language runtime is currently loaded, and the assembly was compiled with a later version.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>GetTypeCode(Type)</source>
+          <target state="new">GetTypeCode(Type)</target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type whose underlying type code to get.</source>
+          <target state="new">\n&lt;p&gt;The type whose underlying type code to get.</target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>GetTypeFromHandle(RuntimeTypeHandle)</source>
+          <target state="new">GetTypeFromHandle(RuntimeTypeHandle)</target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object that refers to the type.</source>
+          <target state="new">\n&lt;p&gt;The object that refers to the type.</target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A class initializer is invoked and throws an exception.</source>
+          <target state="new">\n&lt;p&gt;A class initializer is invoked and throws an exception.</target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>MakeArrayType()</source>
+          <target state="new">MakeArrayType()</target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The invoked method is not supported in the base class.</source>
+          <target state="new">\n&lt;p&gt;The invoked method is not supported in the base class.</target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>Derived classes must provide an implementation.&lt;/p&gt;\n</source>
+          <target state="new">Derived classes must provide an implementation.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>MakeArrayType(Int32)</source>
+          <target state="new">MakeArrayType(Int32)</target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of dimensions for the array.</source>
+          <target state="new">\n&lt;p&gt;The number of dimensions for the array.</target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>This number must be less than or equal to 32.&lt;/p&gt;\n</source>
+          <target state="new">This number must be less than or equal to 32.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object representing an array of the current type, with the specified number of dimensions.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object representing an array of the current type, with the specified number of dimensions.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;rank&lt;/em&gt; is invalid.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;rank&lt;/em&gt; is invalid.</target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>For example, 0 or negative.&lt;/p&gt;\n</source>
+          <target state="new">For example, 0 or negative.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The invoked method is not supported in the base class.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The invoked method is not supported in the base class.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>MakeByRefType()</source>
+          <target state="new">MakeByRefType()</target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The invoked method is not supported in the base class.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The invoked method is not supported in the base class.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>MakeGenericType(Type[])</source>
+          <target state="new">MakeGenericType(Type[])</target>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of types to be substituted for the type parameters of the current generic type.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An array of types to be substituted for the type parameters of the current generic type.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;typeArguments&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;Any element of &lt;em&gt;typeArguments&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;typeArguments&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;Any element of &lt;em&gt;typeArguments&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The invoked method is not supported in the base class.</source>
+          <target state="new">\n&lt;p&gt;The invoked method is not supported in the base class.</target>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>Derived classes must provide an implementation.&lt;/p&gt;\n</source>
+          <target state="new">Derived classes must provide an implementation.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>MakePointerType()</source>
+          <target state="new">MakePointerType()</target>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The invoked method is not supported in the base class.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The invoked method is not supported in the base class.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>ToString()</source>
+          <target state="new">ToString()</target>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>DeclaringType</source>
+          <target state="new">DeclaringType</target>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>Equals(Object, Object)</source>
+          <target state="new">Equals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals(Object, Object)</source>
+          <target state="new">ReferenceEquals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>GetType()</source>
+          <target state="new">GetType()</target>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone()</source>
+          <target state="new">MemberwiseClone()</target>
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone</source>
+          <target state="new">MemberwiseClone</target>
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone</source>
+          <target state="new">MemberwiseClone</target>
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>Type[]</source>
+          <target state="new">Type[]</target>
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>Char</source>
+          <target state="new">Char</target>
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>RuntimeTypeHandle</source>
+          <target state="new">RuntimeTypeHandle</target>
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>Equals(Object)</source>
+          <target state="new">Equals(Object)</target>
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>GetHashCode()</source>
+          <target state="new">GetHashCode()</target>
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>TypeCode</source>
+          <target state="new">TypeCode</target>
+        </trans-unit>
+        <trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>ToString()</source>
+          <target state="new">ToString()</target>
+        </trans-unit>
+        <trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>InvalidOperationException</source>
+          <target state="new">InvalidOperationException</target>
+        </trans-unit>
+        <trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>NotSupportedException</source>
+          <target state="new">NotSupportedException</target>
+        </trans-unit>
+        <trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>ArgumentException</source>
+          <target state="new">ArgumentException</target>
+        </trans-unit>
+        <trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>ArgumentNullException</source>
+          <target state="new">ArgumentNullException</target>
+        </trans-unit>
+        <trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>TargetInvocationException</source>
+          <target state="new">TargetInvocationException</target>
+        </trans-unit>
+        <trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>TypeLoadException</source>
+          <target state="new">TypeLoadException</target>
+        </trans-unit>
+        <trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>FileLoadException</source>
+          <target state="new">FileLoadException</target>
+        </trans-unit>
+        <trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>BadImageFormatException</source>
+          <target state="new">BadImageFormatException</target>
+        </trans-unit>
+        <trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>FileNotFoundException</source>
+          <target state="new">FileNotFoundException</target>
+        </trans-unit>
+        <trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>IndexOutOfRangeException</source>
+          <target state="new">IndexOutOfRangeException</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

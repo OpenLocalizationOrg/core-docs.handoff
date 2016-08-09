@@ -1,0 +1,1238 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">02df7524ae44913a3cc5f638c2ca53213974cfba</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Numerics.Complex.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">db587be820fac827c00e39c92a9fac4eff19b0f8</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Complex</source>
+          <target state="new">Complex</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>ImaginaryOne</source>
+          <target state="new">ImaginaryOne</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>One</source>
+          <target state="new">One</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Zero</source>
+          <target state="new">Zero</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Complex(Double, Double)</source>
+          <target state="new">Complex(Double, Double)</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The real part of the complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The real part of the complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The imaginary part of the complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The imaginary part of the complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Imaginary</source>
+          <target state="new">Imaginary</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The imaginary component of a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The imaginary component of a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Magnitude</source>
+          <target state="new">Magnitude</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The magnitude of the current instance.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The magnitude of the current instance.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Phase</source>
+          <target state="new">Phase</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The phase of a complex number, in radians.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The phase of a complex number, in radians.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Real</source>
+          <target state="new">Real</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The real component of a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The real component of a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Abs(Complex)</source>
+          <target state="new">Abs(Complex)</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The absolute value of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The absolute value of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Acos(Complex)</source>
+          <target state="new">Acos(Complex)</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number that represents a cosine.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number that represents a cosine.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The angle, measured in radians, which is the arc cosine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The angle, measured in radians, which is the arc cosine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Add(Complex, Complex)</source>
+          <target state="new">Add(Complex, Complex)</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first complex number to add.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The first complex number to add.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second complex number to add.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The second complex number to add.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The sum of &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The sum of &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Asin(Complex)</source>
+          <target state="new">Asin(Complex)</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The angle which is the arc sine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The angle which is the arc sine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Atan(Complex)</source>
+          <target state="new">Atan(Complex)</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The angle that is the arc tangent of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The angle that is the arc tangent of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Conjugate(Complex)</source>
+          <target state="new">Conjugate(Complex)</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conjugate of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The conjugate of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Cos(Complex)</source>
+          <target state="new">Cos(Complex)</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The cosine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The cosine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Cosh(Complex)</source>
+          <target state="new">Cosh(Complex)</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hyperbolic cosine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The hyperbolic cosine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Divide(Complex, Complex)</source>
+          <target state="new">Divide(Complex, Complex)</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The complex number to be divided.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The complex number to be divided.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The complex number to divide by.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The complex number to divide by.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The quotient of the division.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The quotient of the division.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Equals(Complex)</source>
+          <target state="new">Equals(Complex)</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The complex number to compare.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The complex number to compare.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this complex number and &lt;em&gt;value&lt;/em&gt; have the same value; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this complex number and &lt;em&gt;value&lt;/em&gt; have the same value; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Equals(Object)</source>
+          <target state="new">Equals(Object)</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to compare.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The object to compare.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Exp(Complex)</source>
+          <target state="new">Exp(Complex)</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number that specifies a power.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number that specifies a power.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number &lt;strong&gt;e&lt;/strong&gt; raised to the power &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The number &lt;strong&gt;e&lt;/strong&gt; raised to the power &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>FromPolarCoordinates(Double, Double)</source>
+          <target state="new">FromPolarCoordinates(Double, Double)</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The magnitude, which is the distance from the origin (the intersection of the x-axis and the y-axis) to the number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The magnitude, which is the distance from the origin (the intersection of the x-axis and the y-axis) to the number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The phase, which is the angle from the line to the horizontal axis, measured in radians.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The phase, which is the angle from the line to the horizontal axis, measured in radians.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>GetHashCode()</source>
+          <target state="new">GetHashCode()</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer hash code.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A 32-bit signed integer hash code.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Log(Complex)</source>
+          <target state="new">Log(Complex)</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The natural (base &lt;strong&gt;e&lt;/strong&gt;) logarithm of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The natural (base &lt;strong&gt;e&lt;/strong&gt;) logarithm of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Log(Complex, Double)</source>
+          <target state="new">Log(Complex, Double)</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The base of the logarithm.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The base of the logarithm.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The logarithm of &lt;em&gt;value&lt;/em&gt; in base &lt;em&gt;baseValue&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The logarithm of &lt;em&gt;value&lt;/em&gt; in base &lt;em&gt;baseValue&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Log10(Complex)</source>
+          <target state="new">Log10(Complex)</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The base-10 logarithm of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The base-10 logarithm of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Multiply(Complex, Complex)</source>
+          <target state="new">Multiply(Complex, Complex)</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first complex number to multiply.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The first complex number to multiply.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second complex number to multiply.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The second complex number to multiply.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The product of the &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt; parameters.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The product of the &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt; parameters.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>Negate(Complex)</source>
+          <target state="new">Negate(Complex)</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>Addition(Complex, Complex)</source>
+          <target state="new">Addition(Complex, Complex)</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first value to add.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The first value to add.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second value to add.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The second value to add.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The sum of &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The sum of &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>Division(Complex, Complex)</source>
+          <target state="new">Division(Complex, Complex)</target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to be divided.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to be divided.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to divide by.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to divide by.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of dividing &lt;em&gt;left&lt;/em&gt; by &lt;em&gt;right&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The result of dividing &lt;em&gt;left&lt;/em&gt; by &lt;em&gt;right&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Equality(Complex, Complex)</source>
+          <target state="new">Equality(Complex, Complex)</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first complex number to compare.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The first complex number to compare.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second complex number to compare.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The second complex number to compare.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt; parameters have the same value; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt; parameters have the same value; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>Explicit(Decimal to Complex)</source>
+          <target state="new">Explicit(Decimal to Complex)</target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number that has a real component equal to &lt;em&gt;value&lt;/em&gt; and an imaginary component equal to zero.</source>
+          <target state="new">\n&lt;p&gt;A complex number that has a real component equal to &lt;em&gt;value&lt;/em&gt; and an imaginary component equal to zero.</target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>Explicit(BigInteger to Complex)</source>
+          <target state="new">Explicit(BigInteger to Complex)</target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number that has a real component equal to &lt;em&gt;value&lt;/em&gt; and an imaginary component equal to zero.</source>
+          <target state="new">\n&lt;p&gt;A complex number that has a real component equal to &lt;em&gt;value&lt;/em&gt; and an imaginary component equal to zero.</target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>Implicit(Byte to Complex)</source>
+          <target state="new">Implicit(Byte to Complex)</target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>Implicit(Double to Complex)</source>
+          <target state="new">Implicit(Double to Complex)</target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>Implicit(Int16 to Complex)</source>
+          <target state="new">Implicit(Int16 to Complex)</target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>Implicit(Int32 to Complex)</source>
+          <target state="new">Implicit(Int32 to Complex)</target>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>Implicit(Int64 to Complex)</source>
+          <target state="new">Implicit(Int64 to Complex)</target>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>Implicit(SByte to Complex)</source>
+          <target state="new">Implicit(SByte to Complex)</target>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>Implicit(Single to Complex)</source>
+          <target state="new">Implicit(Single to Complex)</target>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>Implicit(UInt16 to Complex)</source>
+          <target state="new">Implicit(UInt16 to Complex)</target>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>Implicit(UInt32 to Complex)</source>
+          <target state="new">Implicit(UInt32 to Complex)</target>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>Implicit(UInt64 to Complex)</source>
+          <target state="new">Implicit(UInt64 to Complex)</target>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to convert to a complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that contains the value of the &lt;em&gt;value&lt;/em&gt; parameter as its real part and zero as its imaginary part.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>Inequality(Complex, Complex)</source>
+          <target state="new">Inequality(Complex, Complex)</target>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first value to compare.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The first value to compare.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second value to compare.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The second value to compare.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt; are not equal; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt; are not equal; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>Multiply(Complex, Complex)</source>
+          <target state="new">Multiply(Complex, Complex)</target>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first value to multiply.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The first value to multiply.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second value to multiply.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The second value to multiply.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The product of &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The product of &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>Subtraction(Complex, Complex)</source>
+          <target state="new">Subtraction(Complex, Complex)</target>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to subtract from (the minuend).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to subtract from (the minuend).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to subtract (the subtrahend).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to subtract (the subtrahend).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of subtracting &lt;em&gt;right&lt;/em&gt; from &lt;em&gt;left&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The result of subtracting &lt;em&gt;right&lt;/em&gt; from &lt;em&gt;left&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>UnaryNegation(Complex)</source>
+          <target state="new">UnaryNegation(Complex)</target>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to negate.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to negate.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>Pow(Complex, Double)</source>
+          <target state="new">Pow(Complex, Double)</target>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number to be raised to a power.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number to be raised to a power.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A double-precision floating-point number that specifies a power.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A double-precision floating-point number that specifies a power.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The complex number &lt;em&gt;value&lt;/em&gt; raised to the power &lt;em&gt;power&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The complex number &lt;em&gt;value&lt;/em&gt; raised to the power &lt;em&gt;power&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>Pow(Complex, Complex)</source>
+          <target state="new">Pow(Complex, Complex)</target>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number to be raised to a power.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number to be raised to a power.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number that specifies a power.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number that specifies a power.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The complex number &lt;em&gt;value&lt;/em&gt; raised to the power &lt;em&gt;power&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The complex number &lt;em&gt;value&lt;/em&gt; raised to the power &lt;em&gt;power&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>Reciprocal(Complex)</source>
+          <target state="new">Reciprocal(Complex)</target>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The reciprocal of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The reciprocal of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>Sin(Complex)</source>
+          <target state="new">Sin(Complex)</target>
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The sine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The sine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>Sinh(Complex)</source>
+          <target state="new">Sinh(Complex)</target>
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hyperbolic sine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The hyperbolic sine of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>Sqrt(Complex)</source>
+          <target state="new">Sqrt(Complex)</target>
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The square root of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The square root of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>Subtract(Complex, Complex)</source>
+          <target state="new">Subtract(Complex, Complex)</target>
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to subtract from (the minuend).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to subtract from (the minuend).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to subtract (the subtrahend).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The value to subtract (the subtrahend).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of subtracting &lt;em&gt;right&lt;/em&gt; from &lt;em&gt;left&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The result of subtracting &lt;em&gt;right&lt;/em&gt; from &lt;em&gt;left&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>Tan(Complex)</source>
+          <target state="new">Tan(Complex)</target>
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The tangent of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The tangent of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>Tanh(Complex)</source>
+          <target state="new">Tanh(Complex)</target>
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A complex number.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A complex number.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hyperbolic tangent of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The hyperbolic tangent of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>ToString()</source>
+          <target state="new">ToString()</target>
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of the current instance in Cartesian form.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string representation of the current instance in Cartesian form.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>ToString(IFormatProvider)</source>
+          <target state="new">ToString(IFormatProvider)</target>
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that supplies culture-specific formatting information.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of the current instance in Cartesian form, as specified by &lt;em&gt;provider&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string representation of the current instance in Cartesian form, as specified by &lt;em&gt;provider&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>ToString(String)</source>
+          <target state="new">ToString(String)</target>
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A standard or custom numeric format string.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A standard or custom numeric format string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of the current instance in Cartesian form.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string representation of the current instance in Cartesian form.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is not a valid format string.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is not a valid format string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>ToString(String, IFormatProvider)</source>
+          <target state="new">ToString(String, IFormatProvider)</target>
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A standard or custom numeric format string.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A standard or custom numeric format string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that supplies culture-specific formatting information.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of the current instance in Cartesian form, as specified by &lt;em&gt;format&lt;/em&gt; and &lt;em&gt;provider&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The string representation of the current instance in Cartesian form, as specified by &lt;em&gt;format&lt;/em&gt; and &lt;em&gt;provider&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is not a valid format string.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is not a valid format string.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>System.Numerics</source>
+          <target state="new">System.Numerics</target>
+        </trans-unit>
+        <trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>IEquatable&lt;Complex&gt;</source>
+          <target state="new">IEquatable&lt;Complex&gt;</target>
+        </trans-unit>
+        <trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>IEquatable</source>
+          <target state="new">IEquatable</target>
+        </trans-unit>
+        <trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>Complex</source>
+          <target state="new">Complex</target>
+        </trans-unit>
+        <trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>IEquatable</source>
+          <target state="new">IEquatable</target>
+        </trans-unit>
+        <trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>(Of</source>
+          <target state="new">(Of</target>
+        </trans-unit>
+        <trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>Complex</source>
+          <target state="new">Complex</target>
+        </trans-unit>
+        <trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>IFormattable</source>
+          <target state="new">IFormattable</target>
+        </trans-unit>
+        <trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>Equals(Object, Object)</source>
+          <target state="new">Equals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals(Object, Object)</source>
+          <target state="new">ReferenceEquals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>GetType()</source>
+          <target state="new">GetType()</target>
+        </trans-unit>
+        <trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="320" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="321" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="323" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="324" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="325" translate="yes" xml:space="preserve">
+          <source>IEquatable&lt;T&gt;</source>
+          <target state="new">IEquatable&lt;T&gt;</target>
+        </trans-unit>
+        <trans-unit id="326" translate="yes" xml:space="preserve">
+          <source>IEquatable</source>
+          <target state="new">IEquatable</target>
+        </trans-unit>
+        <trans-unit id="327" translate="yes" xml:space="preserve">
+          <source>T</source>
+          <target state="new">T</target>
+        </trans-unit>
+        <trans-unit id="328" translate="yes" xml:space="preserve">
+          <source>IEquatable</source>
+          <target state="new">IEquatable</target>
+        </trans-unit>
+        <trans-unit id="329" translate="yes" xml:space="preserve">
+          <source>(Of</source>
+          <target state="new">(Of</target>
+        </trans-unit>
+        <trans-unit id="330" translate="yes" xml:space="preserve">
+          <source>T</source>
+          <target state="new">T</target>
+        </trans-unit>
+        <trans-unit id="331" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="332" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="333" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="334" translate="yes" xml:space="preserve">
+          <source>Complex</source>
+          <target state="new">Complex</target>
+        </trans-unit>
+        <trans-unit id="335" translate="yes" xml:space="preserve">
+          <source>Double</source>
+          <target state="new">Double</target>
+        </trans-unit>
+        <trans-unit id="336" translate="yes" xml:space="preserve">
+          <source>Equals(Complex)</source>
+          <target state="new">Equals(Complex)</target>
+        </trans-unit>
+        <trans-unit id="337" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="338" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="339" translate="yes" xml:space="preserve">
+          <source>Complex</source>
+          <target state="new">Complex</target>
+        </trans-unit>
+        <trans-unit id="340" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="341" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="342" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="343" translate="yes" xml:space="preserve">
+          <source>Complex</source>
+          <target state="new">Complex</target>
+        </trans-unit>
+        <trans-unit id="344" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="345" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="346" translate="yes" xml:space="preserve">
+          <source>Equals(T)</source>
+          <target state="new">Equals(T)</target>
+        </trans-unit>
+        <trans-unit id="347" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="348" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="349" translate="yes" xml:space="preserve">
+          <source>T</source>
+          <target state="new">T</target>
+        </trans-unit>
+        <trans-unit id="350" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="351" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="352" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="353" translate="yes" xml:space="preserve">
+          <source>T</source>
+          <target state="new">T</target>
+        </trans-unit>
+        <trans-unit id="354" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="355" translate="yes" xml:space="preserve">
+          <source>Equals(Object)</source>
+          <target state="new">Equals(Object)</target>
+        </trans-unit>
+        <trans-unit id="356" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="357" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="358" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="359" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="360" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="361" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="362" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="363" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="364" translate="yes" xml:space="preserve">
+          <source>ValueType</source>
+          <target state="new">ValueType</target>
+        </trans-unit>
+        <trans-unit id="365" translate="yes" xml:space="preserve">
+          <source>GetHashCode()</source>
+          <target state="new">GetHashCode()</target>
+        </trans-unit>
+        <trans-unit id="366" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="367" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="368" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="369" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="370" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="371" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="372" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="373" translate="yes" xml:space="preserve">
+          <source>Decimal</source>
+          <target state="new">Decimal</target>
+        </trans-unit>
+        <trans-unit id="374" translate="yes" xml:space="preserve">
+          <source>BigInteger</source>
+          <target state="new">BigInteger</target>
+        </trans-unit>
+        <trans-unit id="375" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="376" translate="yes" xml:space="preserve">
+          <source>Int16</source>
+          <target state="new">Int16</target>
+        </trans-unit>
+        <trans-unit id="377" translate="yes" xml:space="preserve">
+          <source>Int64</source>
+          <target state="new">Int64</target>
+        </trans-unit>
+        <trans-unit id="378" translate="yes" xml:space="preserve">
+          <source>SByte</source>
+          <target state="new">SByte</target>
+        </trans-unit>
+        <trans-unit id="379" translate="yes" xml:space="preserve">
+          <source>Single</source>
+          <target state="new">Single</target>
+        </trans-unit>
+        <trans-unit id="380" translate="yes" xml:space="preserve">
+          <source>UInt16</source>
+          <target state="new">UInt16</target>
+        </trans-unit>
+        <trans-unit id="381" translate="yes" xml:space="preserve">
+          <source>UInt32</source>
+          <target state="new">UInt32</target>
+        </trans-unit>
+        <trans-unit id="382" translate="yes" xml:space="preserve">
+          <source>UInt64</source>
+          <target state="new">UInt64</target>
+        </trans-unit>
+        <trans-unit id="383" translate="yes" xml:space="preserve">
+          <source>ToString()</source>
+          <target state="new">ToString()</target>
+        </trans-unit>
+        <trans-unit id="384" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="385" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="386" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="387" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="388" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="389" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="390" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="391" translate="yes" xml:space="preserve">
+          <source>IFormatProvider</source>
+          <target state="new">IFormatProvider</target>
+        </trans-unit>
+        <trans-unit id="392" translate="yes" xml:space="preserve">
+          <source>ToString(String, IFormatProvider)</source>
+          <target state="new">ToString(String, IFormatProvider)</target>
+        </trans-unit>
+        <trans-unit id="393" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="394" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="395" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="396" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="397" translate="yes" xml:space="preserve">
+          <source>IFormatProvider</source>
+          <target state="new">IFormatProvider</target>
+        </trans-unit>
+        <trans-unit id="398" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="399" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="400" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="401" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="402" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="403" translate="yes" xml:space="preserve">
+          <source>IFormatProvider</source>
+          <target state="new">IFormatProvider</target>
+        </trans-unit>
+        <trans-unit id="404" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="405" translate="yes" xml:space="preserve">
+          <source>FormatException</source>
+          <target state="new">FormatException</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

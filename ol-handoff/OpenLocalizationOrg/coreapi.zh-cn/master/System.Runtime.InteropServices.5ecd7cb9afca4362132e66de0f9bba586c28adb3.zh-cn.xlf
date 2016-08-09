@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a8c87e98e5d3a13f82f58e128cbd96310d7a9597</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Runtime.InteropServices.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d4a30b3b5e1b6f82553fb436049b17a268ea1cb4</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>System.Runtime.InteropServices</source>
+          <target state="new">System.Runtime.InteropServices</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>OSPlatform</source>
+          <target state="new">OSPlatform</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Architecture</source>
+          <target state="new">Architecture</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>RuntimeInformation</source>
+          <target state="new">RuntimeInformation</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>CharSet</source>
+          <target state="new">CharSet</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>ComVisibleAttribute</source>
+          <target state="new">ComVisibleAttribute</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>FieldOffsetAttribute</source>
+          <target state="new">FieldOffsetAttribute</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>LayoutKind</source>
+          <target state="new">LayoutKind</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>OutAttribute</source>
+          <target state="new">OutAttribute</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>StructLayoutAttribute</source>
+          <target state="new">StructLayoutAttribute</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>CriticalHandle</source>
+          <target state="new">CriticalHandle</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>SafeHandle</source>
+          <target state="new">SafeHandle</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>ArrayWithOffset</source>
+          <target state="new">ArrayWithOffset</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>BestFitMappingAttribute</source>
+          <target state="new">BestFitMappingAttribute</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>BStrWrapper</source>
+          <target state="new">BStrWrapper</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>CallingConvention</source>
+          <target state="new">CallingConvention</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>ClassInterfaceAttribute</source>
+          <target state="new">ClassInterfaceAttribute</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>ClassInterfaceType</source>
+          <target state="new">ClassInterfaceType</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>CoClassAttribute</source>
+          <target state="new">CoClassAttribute</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>ComAwareEventInfo</source>
+          <target state="new">ComAwareEventInfo</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>ComDefaultInterfaceAttribute</source>
+          <target state="new">ComDefaultInterfaceAttribute</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>ComEventInterfaceAttribute</source>
+          <target state="new">ComEventInterfaceAttribute</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>ComEventsHelper</source>
+          <target state="new">ComEventsHelper</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>COMException</source>
+          <target state="new">COMException</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>ComImportAttribute</source>
+          <target state="new">ComImportAttribute</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>ComInterfaceType</source>
+          <target state="new">ComInterfaceType</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>ComMemberType</source>
+          <target state="new">ComMemberType</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>ComSourceInterfacesAttribute</source>
+          <target state="new">ComSourceInterfacesAttribute</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>CurrencyWrapper</source>
+          <target state="new">CurrencyWrapper</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>CustomQueryInterfaceMode</source>
+          <target state="new">CustomQueryInterfaceMode</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>CustomQueryInterfaceResult</source>
+          <target state="new">CustomQueryInterfaceResult</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>DefaultCharSetAttribute</source>
+          <target state="new">DefaultCharSetAttribute</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>DefaultDllImportSearchPathsAttribute</source>
+          <target state="new">DefaultDllImportSearchPathsAttribute</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>DefaultParameterValueAttribute</source>
+          <target state="new">DefaultParameterValueAttribute</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>DispatchWrapper</source>
+          <target state="new">DispatchWrapper</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>DispIdAttribute</source>
+          <target state="new">DispIdAttribute</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>DllImportAttribute</source>
+          <target state="new">DllImportAttribute</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>DllImportSearchPath</source>
+          <target state="new">DllImportSearchPath</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>ErrorWrapper</source>
+          <target state="new">ErrorWrapper</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>GCHandle</source>
+          <target state="new">GCHandle</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>GCHandleType</source>
+          <target state="new">GCHandleType</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>GuidAttribute</source>
+          <target state="new">GuidAttribute</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>HandleCollector</source>
+          <target state="new">HandleCollector</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>ICustomAdapter</source>
+          <target state="new">ICustomAdapter</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>ICustomQueryInterface</source>
+          <target state="new">ICustomQueryInterface</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>InAttribute</source>
+          <target state="new">InAttribute</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>InterfaceTypeAttribute</source>
+          <target state="new">InterfaceTypeAttribute</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>InvalidComObjectException</source>
+          <target state="new">InvalidComObjectException</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>InvalidOleVariantTypeException</source>
+          <target state="new">InvalidOleVariantTypeException</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Marshal</source>
+          <target state="new">Marshal</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>MarshalAsAttribute</source>
+          <target state="new">MarshalAsAttribute</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>MarshalDirectiveException</source>
+          <target state="new">MarshalDirectiveException</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>OptionalAttribute</source>
+          <target state="new">OptionalAttribute</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>PreserveSigAttribute</source>
+          <target state="new">PreserveSigAttribute</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>SafeArrayRankMismatchException</source>
+          <target state="new">SafeArrayRankMismatchException</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>SafeArrayTypeMismatchException</source>
+          <target state="new">SafeArrayTypeMismatchException</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>SafeBuffer</source>
+          <target state="new">SafeBuffer</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>SEHException</source>
+          <target state="new">SEHException</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>TypeIdentifierAttribute</source>
+          <target state="new">TypeIdentifierAttribute</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>UnknownWrapper</source>
+          <target state="new">UnknownWrapper</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>UnmanagedFunctionPointerAttribute</source>
+          <target state="new">UnmanagedFunctionPointerAttribute</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>UnmanagedType</source>
+          <target state="new">UnmanagedType</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>VarEnum</source>
+          <target state="new">VarEnum</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>VariantWrapper</source>
+          <target state="new">VariantWrapper</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>System.Runtime.InteropServices</source>
+          <target state="new">System.Runtime.InteropServices</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

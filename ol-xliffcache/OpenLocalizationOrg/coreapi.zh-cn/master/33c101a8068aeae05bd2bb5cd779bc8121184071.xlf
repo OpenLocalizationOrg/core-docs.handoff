@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">33c101a8068aeae05bd2bb5cd779bc8121184071</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Runtime.InteropServices.VarEnum.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">82ff390b4723b979384d1668ba803fced0c987b8</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>VarEnum</source>
+          <target state="new">VarEnum</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>VT_ARRAY</source>
+          <target state="new">VT_ARRAY</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>VT_BLOB</source>
+          <target state="new">VT_BLOB</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>VT_BLOB_OBJECT</source>
+          <target state="new">VT_BLOB_OBJECT</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>VT_BOOL</source>
+          <target state="new">VT_BOOL</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>VT_BSTR</source>
+          <target state="new">VT_BSTR</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>VT_BYREF</source>
+          <target state="new">VT_BYREF</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>VT_CARRAY</source>
+          <target state="new">VT_CARRAY</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>VT_CF</source>
+          <target state="new">VT_CF</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>VT_CLSID</source>
+          <target state="new">VT_CLSID</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>VT_CY</source>
+          <target state="new">VT_CY</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>VT_DATE</source>
+          <target state="new">VT_DATE</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>VT_DECIMAL</source>
+          <target state="new">VT_DECIMAL</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>VT_DISPATCH</source>
+          <target state="new">VT_DISPATCH</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>VT_EMPTY</source>
+          <target state="new">VT_EMPTY</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>VT_ERROR</source>
+          <target state="new">VT_ERROR</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>VT_FILETIME</source>
+          <target state="new">VT_FILETIME</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>VT_HRESULT</source>
+          <target state="new">VT_HRESULT</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>VT_I1</source>
+          <target state="new">VT_I1</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>VT_I2</source>
+          <target state="new">VT_I2</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>VT_I4</source>
+          <target state="new">VT_I4</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>VT_I8</source>
+          <target state="new">VT_I8</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>VT_INT</source>
+          <target state="new">VT_INT</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>VT_LPSTR</source>
+          <target state="new">VT_LPSTR</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>VT_LPWSTR</source>
+          <target state="new">VT_LPWSTR</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>VT_NULL</source>
+          <target state="new">VT_NULL</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>VT_PTR</source>
+          <target state="new">VT_PTR</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>VT_R4</source>
+          <target state="new">VT_R4</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>VT_R8</source>
+          <target state="new">VT_R8</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>VT_RECORD</source>
+          <target state="new">VT_RECORD</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>VT_SAFEARRAY</source>
+          <target state="new">VT_SAFEARRAY</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>VT_STORAGE</source>
+          <target state="new">VT_STORAGE</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>VT_STORED_OBJECT</source>
+          <target state="new">VT_STORED_OBJECT</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>VT_STREAM</source>
+          <target state="new">VT_STREAM</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>VT_STREAMED_OBJECT</source>
+          <target state="new">VT_STREAMED_OBJECT</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>VT_UI1</source>
+          <target state="new">VT_UI1</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>VT_UI2</source>
+          <target state="new">VT_UI2</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>VT_UI4</source>
+          <target state="new">VT_UI4</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>VT_UI8</source>
+          <target state="new">VT_UI8</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>VT_UINT</source>
+          <target state="new">VT_UINT</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>VT_UNKNOWN</source>
+          <target state="new">VT_UNKNOWN</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>VT_USERDEFINED</source>
+          <target state="new">VT_USERDEFINED</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>VT_VARIANT</source>
+          <target state="new">VT_VARIANT</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>VT_VECTOR</source>
+          <target state="new">VT_VECTOR</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>VT_VOID</source>
+          <target state="new">VT_VOID</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>System.Runtime.InteropServices</source>
+          <target state="new">System.Runtime.InteropServices</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>VarEnum</source>
+          <target state="new">VarEnum</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

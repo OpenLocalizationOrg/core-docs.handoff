@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ecc0e7e95b7e0a41159f45c571d9410dc565165f</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Net.Http.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0308fff45ed0049f2a3f7a0fb1b952da0bca2b5c</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>System.Net.Http</source>
+          <target state="new">System.Net.Http</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>ByteArrayContent</source>
+          <target state="new">ByteArrayContent</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>ClientCertificateOption</source>
+          <target state="new">ClientCertificateOption</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>DelegatingHandler</source>
+          <target state="new">DelegatingHandler</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>FormUrlEncodedContent</source>
+          <target state="new">FormUrlEncodedContent</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>HttpClient</source>
+          <target state="new">HttpClient</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>HttpClientHandler</source>
+          <target state="new">HttpClientHandler</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>HttpCompletionOption</source>
+          <target state="new">HttpCompletionOption</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>HttpContent</source>
+          <target state="new">HttpContent</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>HttpMessageHandler</source>
+          <target state="new">HttpMessageHandler</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>HttpMessageInvoker</source>
+          <target state="new">HttpMessageInvoker</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>HttpMethod</source>
+          <target state="new">HttpMethod</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>HttpRequestException</source>
+          <target state="new">HttpRequestException</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>HttpRequestMessage</source>
+          <target state="new">HttpRequestMessage</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>HttpResponseMessage</source>
+          <target state="new">HttpResponseMessage</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>MessageProcessingHandler</source>
+          <target state="new">MessageProcessingHandler</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>MultipartContent</source>
+          <target state="new">MultipartContent</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>MultipartFormDataContent</source>
+          <target state="new">MultipartFormDataContent</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>StreamContent</source>
+          <target state="new">StreamContent</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>StringContent</source>
+          <target state="new">StringContent</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>RtcRequestFactory</source>
+          <target state="new">RtcRequestFactory</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>CookieUsePolicy</source>
+          <target state="new">CookieUsePolicy</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>WindowsProxyUsePolicy</source>
+          <target state="new">WindowsProxyUsePolicy</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>WinHttpHandler</source>
+          <target state="new">WinHttpHandler</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>System.Net.Http</source>
+          <target state="new">System.Net.Http</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

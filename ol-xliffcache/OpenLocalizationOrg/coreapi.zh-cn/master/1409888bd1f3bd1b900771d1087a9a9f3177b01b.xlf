@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1409888bd1f3bd1b900771d1087a9a9f3177b01b</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Runtime.InteropServices.ComTypes.IConnectionPoint.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d24626c3026efc8a232395f340497e3fee3107d5</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>IConnectionPoint</source>
+          <target state="new">IConnectionPoint</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Advise(Object, out Int32)</source>
+          <target state="new">Advise(Object, out Int32)</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A reference to the sink to receive calls for the outgoing interface managed by this connection point.</source>
+          <target state="new">\n&lt;p&gt;A reference to the sink to receive calls for the outgoing interface managed by this connection point.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the connection cookie.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains the connection cookie.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>EnumConnections(out IEnumConnections)</source>
+          <target state="new">EnumConnections(out IEnumConnections)</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the newly created enumerator.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains the newly created enumerator.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>GetConnectionInterface(out Guid)</source>
+          <target state="new">GetConnectionInterface(out Guid)</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this parameter returns, contains the IID of the outgoing interface managed by this connection point.</source>
+          <target state="new">\n&lt;p&gt;When this parameter returns, contains the IID of the outgoing interface managed by this connection point.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>GetConnectionPointContainer(out IConnectionPointContainer)</source>
+          <target state="new">GetConnectionPointContainer(out IConnectionPointContainer)</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this parameter returns, contains the connectable object's &lt;strong&gt;IConnectionPointContainer&lt;/strong&gt; interface.</source>
+          <target state="new">\n&lt;p&gt;When this parameter returns, contains the connectable object's &lt;strong&gt;IConnectionPointContainer&lt;/strong&gt; interface.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Unadvise(Int32)</source>
+          <target state="new">Unadvise(Int32)</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>System.Runtime.InteropServices.ComTypes</source>
+          <target state="new">System.Runtime.InteropServices.ComTypes</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>IEnumConnections</source>
+          <target state="new">IEnumConnections</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Guid</source>
+          <target state="new">Guid</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>IConnectionPointContainer</source>
+          <target state="new">IConnectionPointContainer</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

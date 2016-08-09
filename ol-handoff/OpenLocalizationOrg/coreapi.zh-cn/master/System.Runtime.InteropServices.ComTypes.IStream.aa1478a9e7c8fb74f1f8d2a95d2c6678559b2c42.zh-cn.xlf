@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8bb20c5799c214bd8eb2e1236634165f154c174e</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Runtime.InteropServices.ComTypes.IStream.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f21ed2f39c746ae6289df85db368269bc8dbf048</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>IStream</source>
+          <target state="new">IStream</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Clone(out IStream)</source>
+          <target state="new">Clone(out IStream)</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the new stream object.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains the new stream object.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Commit(Int32)</source>
+          <target state="new">Commit(Int32)</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value that controls how the changes for the stream object are committed.</source>
+          <target state="new">\n&lt;p&gt;A value that controls how the changes for the stream object are committed.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>CopyTo(IStream, Int64, IntPtr, IntPtr)</source>
+          <target state="new">CopyTo(IStream, Int64, IntPtr, IntPtr)</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A reference to the destination stream.</source>
+          <target state="new">\n&lt;p&gt;A reference to the destination stream.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes to copy from the source stream.</source>
+          <target state="new">\n&lt;p&gt;The number of bytes to copy from the source stream.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;On successful return, contains the actual number of bytes read from the source.</source>
+          <target state="new">\n&lt;p&gt;On successful return, contains the actual number of bytes read from the source.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;On successful return, contains the actual number of bytes written to the destination.</source>
+          <target state="new">\n&lt;p&gt;On successful return, contains the actual number of bytes written to the destination.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>LockRegion(Int64, Int64, Int32)</source>
+          <target state="new">LockRegion(Int64, Int64, Int32)</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte offset for the beginning of the range.</source>
+          <target state="new">\n&lt;p&gt;The byte offset for the beginning of the range.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the range, in bytes, to restrict.</source>
+          <target state="new">\n&lt;p&gt;The length of the range, in bytes, to restrict.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The requested restrictions on accessing the range.</source>
+          <target state="new">\n&lt;p&gt;The requested restrictions on accessing the range.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Read(Byte[], Int32, IntPtr)</source>
+          <target state="new">Read(Byte[], Int32, IntPtr)</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the data read from the stream.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains the data read from the stream.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>SizeParamIndex</source>
+          <target state="new">SizeParamIndex</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes to read from the stream object.</source>
+          <target state="new">\n&lt;p&gt;The number of bytes to read from the stream object.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A pointer to a &lt;strong&gt;ULONG&lt;/strong&gt; variable that receives the actual number of bytes read from the stream object.</source>
+          <target state="new">\n&lt;p&gt;A pointer to a &lt;strong&gt;ULONG&lt;/strong&gt; variable that receives the actual number of bytes read from the stream object.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Revert()</source>
+          <target state="new">Revert()</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Seek(Int64, Int32, IntPtr)</source>
+          <target state="new">Seek(Int64, Int32, IntPtr)</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The displacement to add to &lt;em&gt;dwOrigin&lt;/em&gt;.</source>
+          <target state="new">\n&lt;p&gt;The displacement to add to &lt;em&gt;dwOrigin&lt;/em&gt;.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The origin of the seek.</source>
+          <target state="new">\n&lt;p&gt;The origin of the seek.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>The origin can be the beginning of the file, the current seek pointer, or the end of the file.</source>
+          <target state="new">The origin can be the beginning of the file, the current seek pointer, or the end of the file.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;On successful return, contains the offset of the seek pointer from the beginning of the stream.</source>
+          <target state="new">\n&lt;p&gt;On successful return, contains the offset of the seek pointer from the beginning of the stream.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>SetSize(Int64)</source>
+          <target state="new">SetSize(Int64)</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new size of the stream as a number of bytes.</source>
+          <target state="new">\n&lt;p&gt;The new size of the stream as a number of bytes.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Stat(out STATSTG, Int32)</source>
+          <target state="new">Stat(out STATSTG, Int32)</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains a &lt;strong&gt;STATSTG&lt;/strong&gt; structure that describes this stream object.</source>
+          <target state="new">\n&lt;p&gt;When this method returns, contains a &lt;strong&gt;STATSTG&lt;/strong&gt; structure that describes this stream object.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">This parameter is passed uninitialized.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Members in the &lt;strong&gt;STATSTG&lt;/strong&gt; structure that this method does not return, thus saving some memory allocation operations.</source>
+          <target state="new">\n&lt;p&gt;Members in the &lt;strong&gt;STATSTG&lt;/strong&gt; structure that this method does not return, thus saving some memory allocation operations.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>UnlockRegion(Int64, Int64, Int32)</source>
+          <target state="new">UnlockRegion(Int64, Int64, Int32)</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte offset for the beginning of the range.</source>
+          <target state="new">\n&lt;p&gt;The byte offset for the beginning of the range.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length, in bytes, of the range to restrict.</source>
+          <target state="new">\n&lt;p&gt;The length, in bytes, of the range to restrict.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The access restrictions previously placed on the range.</source>
+          <target state="new">\n&lt;p&gt;The access restrictions previously placed on the range.</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Write(Byte[], Int32, IntPtr)</source>
+          <target state="new">Write(Byte[], Int32, IntPtr)</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer to write this stream to.</source>
+          <target state="new">\n&lt;p&gt;The buffer to write this stream to.</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>SizeParamIndex</source>
+          <target state="new">SizeParamIndex</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes to write to the stream.</source>
+          <target state="new">\n&lt;p&gt;The number of bytes to write to the stream.</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>System.Runtime.InteropServices.ComTypes</source>
+          <target state="new">System.Runtime.InteropServices.ComTypes</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>IStream</source>
+          <target state="new">IStream</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Int64</source>
+          <target state="new">Int64</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>IntPtr</source>
+          <target state="new">IntPtr</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>Byte[]</source>
+          <target state="new">Byte[]</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>STATSTG</source>
+          <target state="new">STATSTG</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

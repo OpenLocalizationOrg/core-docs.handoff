@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">747b91198466a4aba3f6dbaab1a6f69c3cd772bd</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Data.SqlClient.SqlParameter.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e234f1c3ad35f3bdc5b0449a3e0658b98f03f97c</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>SqlParameter</source>
+          <target state="new">SqlParameter</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>SqlParameter()</source>
+          <target state="new">SqlParameter()</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>SqlParameter(String, SqlDbType)</source>
+          <target state="new">SqlParameter(String, SqlDbType)</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the parameter to map.</source>
+          <target state="new">\n&lt;p&gt;The name of the parameter to map.</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value supplied in the &lt;em&gt;dbType&lt;/em&gt; parameter is an invalid back-end data type.</source>
+          <target state="new">\n&lt;p&gt;The value supplied in the &lt;em&gt;dbType&lt;/em&gt; parameter is an invalid back-end data type.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>SqlParameter(String, SqlDbType, Int32)</source>
+          <target state="new">SqlParameter(String, SqlDbType, Int32)</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the parameter to map.</source>
+          <target state="new">\n&lt;p&gt;The name of the parameter to map.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the parameter.</source>
+          <target state="new">\n&lt;p&gt;The length of the parameter.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value supplied in the &lt;em&gt;dbType&lt;/em&gt; parameter is an invalid back-end data type.</source>
+          <target state="new">\n&lt;p&gt;The value supplied in the &lt;em&gt;dbType&lt;/em&gt; parameter is an invalid back-end data type.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>SqlParameter(String, SqlDbType, Int32, String)</source>
+          <target state="new">SqlParameter(String, SqlDbType, Int32, String)</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the parameter to map.</source>
+          <target state="new">\n&lt;p&gt;The name of the parameter to map.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the parameter.</source>
+          <target state="new">\n&lt;p&gt;The length of the parameter.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value supplied in the &lt;em&gt;dbType&lt;/em&gt; parameter is an invalid back-end data type.</source>
+          <target state="new">\n&lt;p&gt;The value supplied in the &lt;em&gt;dbType&lt;/em&gt; parameter is an invalid back-end data type.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>SqlParameter(String, Object)</source>
+          <target state="new">SqlParameter(String, Object)</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the parameter to map.</source>
+          <target state="new">\n&lt;p&gt;The name of the parameter to map.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>CompareInfo</source>
+          <target state="new">CompareInfo</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>DbType</source>
+          <target state="new">DbType</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Direction</source>
+          <target state="new">Direction</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>IsNullable</source>
+          <target state="new">IsNullable</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if null values are accepted; otherwise &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if null values are accepted; otherwise &lt;strong&gt;false&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>The default is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">The default is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>LocaleId</source>
+          <target state="new">LocaleId</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the locale identifier associated with the parameter.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Returns the locale identifier associated with the parameter.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Offset</source>
+          <target state="new">Offset</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>ParameterName</source>
+          <target state="new">ParameterName</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Precision</source>
+          <target state="new">Precision</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Scale</source>
+          <target state="new">Scale</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Size</source>
+          <target state="new">Size</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, of the data within the column.</source>
+          <target state="new">\n&lt;p&gt;The maximum size, in bytes, of the data within the column.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>The default value is inferred from the parameter value.&lt;/p&gt;\n</source>
+          <target state="new">The default value is inferred from the parameter value.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>SourceColumn</source>
+          <target state="new">SourceColumn</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>SourceColumnNullMapping</source>
+          <target state="new">SourceColumnNullMapping</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the source column is nullable; &lt;strong&gt;false&lt;/strong&gt; if it is not.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the source column is nullable; &lt;strong&gt;false&lt;/strong&gt; if it is not.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>SqlDbType</source>
+          <target state="new">SqlDbType</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>SqlValue</source>
+          <target state="new">SqlValue</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>TypeName</source>
+          <target state="new">TypeName</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type name of the specified table-valued parameter.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The type name of the specified table-valued parameter.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <target state="new">Value</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>XmlSchemaCollectionDatabase</source>
+          <target state="new">XmlSchemaCollectionDatabase</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the database where the schema collection for this XML instance is located.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The name of the database where the schema collection for this XML instance is located.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>XmlSchemaCollectionName</source>
+          <target state="new">XmlSchemaCollectionName</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the schema collection for this XML instance.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The name of the schema collection for this XML instance.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>XmlSchemaCollectionOwningSchema</source>
+          <target state="new">XmlSchemaCollectionOwningSchema</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The owning relational schema for this XML instance.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The owning relational schema for this XML instance.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>ResetDbType()</source>
+          <target state="new">ResetDbType()</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>ResetSqlDbType()</source>
+          <target state="new">ResetSqlDbType()</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>ToString()</source>
+          <target state="new">ToString()</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>System.Data.SqlClient</source>
+          <target state="new">System.Data.SqlClient</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>SqlDbType</source>
+          <target state="new">SqlDbType</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>System.Data</source>
+          <target state="new">System.Data</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>SqlCompareOptions</source>
+          <target state="new">SqlCompareOptions</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>System.Data.SqlTypes</source>
+          <target state="new">System.Data.SqlTypes</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>DbType</source>
+          <target state="new">DbType</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>ParameterDirection</source>
+          <target state="new">ParameterDirection</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>ArgumentException</source>
+          <target state="new">ArgumentException</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

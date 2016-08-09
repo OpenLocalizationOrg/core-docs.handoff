@@ -1,0 +1,954 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4c21061be6c1b4ffdb0a33ff991435a772029887</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Reflection.PropertyInfo.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e0c90b05fff1ec5e6ff42662acf5ed3415056971</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>PropertyInfo</source>
+          <target state="new">PropertyInfo</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Attributes</source>
+          <target state="new">Attributes</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The attributes of this property.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The attributes of this property.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>CanRead</source>
+          <target state="new">CanRead</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this property can be read; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this property can be read; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>CanWrite</source>
+          <target state="new">CanWrite</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this property can be written to; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this property can be written to; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>GetMethod</source>
+          <target state="new">GetMethod</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;strong&gt;get&lt;/strong&gt; accessor for this property.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;strong&gt;get&lt;/strong&gt; accessor for this property.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>IsSpecialName</source>
+          <target state="new">IsSpecialName</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this property is the special name; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this property is the special name; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>PropertyType</source>
+          <target state="new">PropertyType</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of this property.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The type of this property.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>SetMethod</source>
+          <target state="new">SetMethod</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;strong&gt;set&lt;/strong&gt; accessor for this property, or &lt;strong&gt;null&lt;/strong&gt; if the property is read-only.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;strong&gt;set&lt;/strong&gt; accessor for this property, or &lt;strong&gt;null&lt;/strong&gt; if the property is read-only.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Equals(Object)</source>
+          <target state="new">Equals(Object)</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to compare with this instance, or &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object to compare with this instance, or &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;obj&lt;/em&gt; equals the type and value of this instance; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;obj&lt;/em&gt; equals the type and value of this instance; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>GetConstantValue()</source>
+          <target state="new">GetConstantValue()</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Constant table in unmanaged metadata does not contain a constant value for the current property.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The Constant table in unmanaged metadata does not contain a constant value for the current property.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the value is not one of the types permitted by the Common Language Specification (CLS).</source>
+          <target state="new">\n&lt;p&gt;The type of the value is not one of the types permitted by the Common Language Specification (CLS).</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>See the ECMA Partition II specification, Metadata.</source>
+          <target state="new">See the ECMA Partition II specification, Metadata.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>GetHashCode()</source>
+          <target state="new">GetHashCode()</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer hash code.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A 32-bit signed integer hash code.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>GetIndexParameters()</source>
+          <target state="new">GetIndexParameters()</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of type &lt;strong&gt;ParameterInfo&lt;/strong&gt; containing the parameters for the indexes.</source>
+          <target state="new">\n&lt;p&gt;An array of type &lt;strong&gt;ParameterInfo&lt;/strong&gt; containing the parameters for the indexes.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>If the property is not indexed, the array has 0 (zero) elements.&lt;/p&gt;\n</source>
+          <target state="new">If the property is not indexed, the array has 0 (zero) elements.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>GetValue(Object)</source>
+          <target state="new">GetValue(Object)</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object whose property value will be returned.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The object whose property value will be returned.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property value of the specified object.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The property value of the specified object.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>GetValue(Object, Object[])</source>
+          <target state="new">GetValue(Object, Object[])</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object whose property value will be returned.</source>
+          <target state="new">\n&lt;p&gt;The object whose property value will be returned.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Optional index values for indexed properties.</source>
+          <target state="new">\n&lt;p&gt;Optional index values for indexed properties.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>The indexes of indexed properties are zero-based.</source>
+          <target state="new">The indexes of indexed properties are zero-based.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>This value should be &lt;strong&gt;null&lt;/strong&gt; for non-indexed properties.</source>
+          <target state="new">This value should be &lt;strong&gt;null&lt;/strong&gt; for non-indexed properties.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property value of the specified object.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The property value of the specified object.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;index&lt;/em&gt; array does not contain the type of arguments needed.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The property's &lt;strong&gt;get&lt;/strong&gt; accessor is not found.</source>
+          <target state="new">\n&lt;p&gt;The &lt;em&gt;index&lt;/em&gt; array does not contain the type of arguments needed.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The property's &lt;strong&gt;get&lt;/strong&gt; accessor is not found.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of parameters in &lt;em&gt;index&lt;/em&gt; does not match the number of parameters the indexed property takes.</source>
+          <target state="new">\n&lt;p&gt;The number of parameters in &lt;em&gt;index&lt;/em&gt; does not match the number of parameters the indexed property takes.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>SetValue(Object, Object)</source>
+          <target state="new">SetValue(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object whose property value will be set.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The object whose property value will be set.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new property value.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The new property value.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>SetValue(Object, Object, Object[])</source>
+          <target state="new">SetValue(Object, Object, Object[])</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object whose property value will be set.</source>
+          <target state="new">\n&lt;p&gt;The object whose property value will be set.</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new property value.</source>
+          <target state="new">\n&lt;p&gt;The new property value.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Optional index values for indexed properties.</source>
+          <target state="new">\n&lt;p&gt;Optional index values for indexed properties.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>This value should be &lt;strong&gt;null&lt;/strong&gt; for non-indexed properties.</source>
+          <target state="new">This value should be &lt;strong&gt;null&lt;/strong&gt; for non-indexed properties.</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of parameters in &lt;em&gt;index&lt;/em&gt; does not match the number of parameters the indexed property takes.</source>
+          <target state="new">\n&lt;p&gt;The number of parameters in &lt;em&gt;index&lt;/em&gt; does not match the number of parameters the indexed property takes.</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>MemberType</source>
+          <target state="new">MemberType</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>GetAccessors()</source>
+          <target state="new">GetAccessors()</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>GetAccessors(Boolean)</source>
+          <target state="new">GetAccessors(Boolean)</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether non-public methods should be returned in the returned array.</source>
+          <target state="new">\n&lt;p&gt;Indicates whether non-public methods should be returned in the returned array.</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>&lt;strong&gt;true&lt;/strong&gt; if non-public methods are to be included; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">&lt;strong&gt;true&lt;/strong&gt; if non-public methods are to be included; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array whose elements reflect the &lt;strong&gt;get&lt;/strong&gt; and &lt;strong&gt;set&lt;/strong&gt; accessors of the property reflected by the current instance.</source>
+          <target state="new">\n&lt;p&gt;An array whose elements reflect the &lt;strong&gt;get&lt;/strong&gt; and &lt;strong&gt;set&lt;/strong&gt; accessors of the property reflected by the current instance.</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>If &lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt;, this array contains public and non-public &lt;strong&gt;get&lt;/strong&gt; and &lt;strong&gt;set &lt;/strong&gt;accessors.</source>
+          <target state="new">If &lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt;, this array contains public and non-public &lt;strong&gt;get&lt;/strong&gt; and &lt;strong&gt;set &lt;/strong&gt;accessors.</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>If &lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;false&lt;/strong&gt;, this array contains only public &lt;strong&gt;get&lt;/strong&gt; and &lt;strong&gt;set&lt;/strong&gt; accessors.</source>
+          <target state="new">If &lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;false&lt;/strong&gt;, this array contains only public &lt;strong&gt;get&lt;/strong&gt; and &lt;strong&gt;set&lt;/strong&gt; accessors.</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>If no accessors with the specified visibility are found, this method returns an array with zero (0) elements.&lt;/p&gt;\n</source>
+          <target state="new">If no accessors with the specified visibility are found, this method returns an array with zero (0) elements.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>GetGetMethod()</source>
+          <target state="new">GetGetMethod()</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;MethodInfo&lt;/strong&gt; object representing the public &lt;strong&gt;get&lt;/strong&gt; accessor for this property, or &lt;strong&gt;null&lt;/strong&gt; if the &lt;strong&gt;get&lt;/strong&gt; accessor is non-public or does not exist.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A &lt;strong&gt;MethodInfo&lt;/strong&gt; object representing the public &lt;strong&gt;get&lt;/strong&gt; accessor for this property, or &lt;strong&gt;null&lt;/strong&gt; if the &lt;strong&gt;get&lt;/strong&gt; accessor is non-public or does not exist.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>GetGetMethod(Boolean)</source>
+          <target state="new">GetGetMethod(Boolean)</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether a non-public &lt;strong&gt;get&lt;/strong&gt; accessor should be returned.</source>
+          <target state="new">\n&lt;p&gt;Indicates whether a non-public &lt;strong&gt;get&lt;/strong&gt; accessor should be returned.</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>&lt;strong&gt;true&lt;/strong&gt; if a non-public accessor is to be returned; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">&lt;strong&gt;true&lt;/strong&gt; if a non-public accessor is to be returned; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;MethodInfo&lt;/strong&gt; object representing the &lt;strong&gt;get&lt;/strong&gt; accessor for this property, if &lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt;.</source>
+          <target state="new">\n&lt;p&gt;A &lt;strong&gt;MethodInfo&lt;/strong&gt; object representing the &lt;strong&gt;get&lt;/strong&gt; accessor for this property, if &lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>Returns &lt;strong&gt;null&lt;/strong&gt; if &lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;false&lt;/strong&gt; and the &lt;strong&gt;get&lt;/strong&gt; accessor is non-public, or if &lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt; but no &lt;strong&gt;get&lt;/strong&gt; accessors exist.&lt;/p&gt;\n</source>
+          <target state="new">Returns &lt;strong&gt;null&lt;/strong&gt; if &lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;false&lt;/strong&gt; and the &lt;strong&gt;get&lt;/strong&gt; accessor is non-public, or if &lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt; but no &lt;strong&gt;get&lt;/strong&gt; accessors exist.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>GetSetMethod()</source>
+          <target state="new">GetSetMethod()</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;strong&gt;MethodInfo&lt;/strong&gt; object representing the &lt;strong&gt;Set&lt;/strong&gt; method for this property if the &lt;strong&gt;set&lt;/strong&gt; accessor is public, or &lt;strong&gt;null&lt;/strong&gt; if the &lt;strong&gt;set&lt;/strong&gt; accessor is not public.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The &lt;strong&gt;MethodInfo&lt;/strong&gt; object representing the &lt;strong&gt;Set&lt;/strong&gt; method for this property if the &lt;strong&gt;set&lt;/strong&gt; accessor is public, or &lt;strong&gt;null&lt;/strong&gt; if the &lt;strong&gt;set&lt;/strong&gt; accessor is not public.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>GetSetMethod(Boolean)</source>
+          <target state="new">GetSetMethod(Boolean)</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the accessor should be returned if it is non-public.</source>
+          <target state="new">\n&lt;p&gt;Indicates whether the accessor should be returned if it is non-public.</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>&lt;strong&gt;true&lt;/strong&gt; if a non-public accessor is to be returned; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">&lt;strong&gt;true&lt;/strong&gt; if a non-public accessor is to be returned; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This property's &lt;strong&gt;Set&lt;/strong&gt; method, or &lt;strong&gt;null&lt;/strong&gt;, as shown in the following table.&lt;/p&gt;\n&lt;p&gt;Value &lt;/p&gt;\n&lt;p&gt;Condition &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;The &lt;strong&gt;Set&lt;/strong&gt; method for this property.</source>
+          <target state="new">\n&lt;p&gt;This property's &lt;strong&gt;Set&lt;/strong&gt; method, or &lt;strong&gt;null&lt;/strong&gt;, as shown in the following table.&lt;/p&gt;\n&lt;p&gt;Value &lt;/p&gt;\n&lt;p&gt;Condition &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;The &lt;strong&gt;Set&lt;/strong&gt; method for this property.</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;The &lt;strong&gt;set&lt;/strong&gt; accessor is public.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt; and the &lt;strong&gt;set&lt;/strong&gt; accessor is non-public.</source>
+          <target state="new">&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;The &lt;strong&gt;set&lt;/strong&gt; accessor is public.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt; and the &lt;strong&gt;set&lt;/strong&gt; accessor is non-public.</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;strong&gt;null&lt;/strong&gt;\n&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt;, but the property is read-only.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;false&lt;/strong&gt; and the &lt;strong&gt;set&lt;/strong&gt; accessor is non-public.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;There is no &lt;strong&gt;set&lt;/strong&gt; accessor.</source>
+          <target state="new">&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;strong&gt;null&lt;/strong&gt;\n&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt;, but the property is read-only.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;nonPublic&lt;/em&gt; is &lt;strong&gt;false&lt;/strong&gt; and the &lt;strong&gt;set&lt;/strong&gt; accessor is non-public.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;There is no &lt;strong&gt;set&lt;/strong&gt; accessor.</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>GetOptionalCustomModifiers()</source>
+          <target state="new">GetOptionalCustomModifiers()</target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>GetRawConstantValue()</source>
+          <target state="new">GetRawConstantValue()</target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Constant table in unmanaged metadata does not contain a constant value for the current property.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The Constant table in unmanaged metadata does not contain a constant value for the current property.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the value is not one of the types permitted by the Common Language Specification (CLS).</source>
+          <target state="new">\n&lt;p&gt;The type of the value is not one of the types permitted by the Common Language Specification (CLS).</target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>See the ECMA Partition II specification, Metadata Logical Format: Other Structures, Element Types used in Signatures.</source>
+          <target state="new">See the ECMA Partition II specification, Metadata Logical Format: Other Structures, Element Types used in Signatures.</target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>GetRequiredCustomModifiers()</source>
+          <target state="new">GetRequiredCustomModifiers()</target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>System.Reflection</source>
+          <target state="new">System.Reflection</target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>MemberInfo</source>
+          <target state="new">MemberInfo</target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>ICustomAttributeProvider</source>
+          <target state="new">ICustomAttributeProvider</target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>CustomAttributes</source>
+          <target state="new">CustomAttributes</target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>DeclaringType</source>
+          <target state="new">DeclaringType</target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>MetadataToken</source>
+          <target state="new">MetadataToken</target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>Module</source>
+          <target state="new">Module</target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>ICustomAttributeProvider.GetCustomAttributes(Boolean)</source>
+          <target state="new">ICustomAttributeProvider.GetCustomAttributes(Boolean)</target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>ICustomAttributeProvider.GetCustomAttributes</source>
+          <target state="new">ICustomAttributeProvider.GetCustomAttributes</target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>System.Reflection.ICustomAttributeProvider.GetCustomAttributes</source>
+          <target state="new">System.Reflection.ICustomAttributeProvider.GetCustomAttributes</target>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>ICustomAttributeProvider.GetCustomAttributes(Type, Boolean)</source>
+          <target state="new">ICustomAttributeProvider.GetCustomAttributes(Type, Boolean)</target>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>ICustomAttributeProvider.GetCustomAttributes</source>
+          <target state="new">ICustomAttributeProvider.GetCustomAttributes</target>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>System.Reflection.ICustomAttributeProvider.GetCustomAttributes</source>
+          <target state="new">System.Reflection.ICustomAttributeProvider.GetCustomAttributes</target>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>ICustomAttributeProvider.IsDefined(Type, Boolean)</source>
+          <target state="new">ICustomAttributeProvider.IsDefined(Type, Boolean)</target>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>ICustomAttributeProvider.IsDefined</source>
+          <target state="new">ICustomAttributeProvider.IsDefined</target>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>System.Reflection.ICustomAttributeProvider.IsDefined</source>
+          <target state="new">System.Reflection.ICustomAttributeProvider.IsDefined</target>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>ToString()</source>
+          <target state="new">ToString()</target>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>Equals(Object, Object)</source>
+          <target state="new">Equals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals(Object, Object)</source>
+          <target state="new">ReferenceEquals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>GetType()</source>
+          <target state="new">GetType()</target>
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone()</source>
+          <target state="new">MemberwiseClone()</target>
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone</source>
+          <target state="new">MemberwiseClone</target>
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone</source>
+          <target state="new">MemberwiseClone</target>
+        </trans-unit>
+        <trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>PropertyAttributes</source>
+          <target state="new">PropertyAttributes</target>
+        </trans-unit>
+        <trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>MethodInfo</source>
+          <target state="new">MethodInfo</target>
+        </trans-unit>
+        <trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>Equals(Object)</source>
+          <target state="new">Equals(Object)</target>
+        </trans-unit>
+        <trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>GetHashCode()</source>
+          <target state="new">GetHashCode()</target>
+        </trans-unit>
+        <trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>ParameterInfo[]</source>
+          <target state="new">ParameterInfo[]</target>
+        </trans-unit>
+        <trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>ParameterInfo</source>
+          <target state="new">ParameterInfo</target>
+        </trans-unit>
+        <trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>ParameterInfo</source>
+          <target state="new">ParameterInfo</target>
+        </trans-unit>
+        <trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>Object[]</source>
+          <target state="new">Object[]</target>
+        </trans-unit>
+        <trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>MemberType</source>
+          <target state="new">MemberType</target>
+        </trans-unit>
+        <trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>MemberTypes</source>
+          <target state="new">MemberTypes</target>
+        </trans-unit>
+        <trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>MethodInfo[]</source>
+          <target state="new">MethodInfo[]</target>
+        </trans-unit>
+        <trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>MethodInfo</source>
+          <target state="new">MethodInfo</target>
+        </trans-unit>
+        <trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="320" translate="yes" xml:space="preserve">
+          <source>MethodInfo</source>
+          <target state="new">MethodInfo</target>
+        </trans-unit>
+        <trans-unit id="321" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>Type[]</source>
+          <target state="new">Type[]</target>
+        </trans-unit>
+        <trans-unit id="323" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="324" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="325" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="326" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="327" translate="yes" xml:space="preserve">
+          <source>InvalidOperationException</source>
+          <target state="new">InvalidOperationException</target>
+        </trans-unit>
+        <trans-unit id="328" translate="yes" xml:space="preserve">
+          <source>FormatException</source>
+          <target state="new">FormatException</target>
+        </trans-unit>
+        <trans-unit id="329" translate="yes" xml:space="preserve">
+          <source>ArgumentException</source>
+          <target state="new">ArgumentException</target>
+        </trans-unit>
+        <trans-unit id="330" translate="yes" xml:space="preserve">
+          <source>TargetException</source>
+          <target state="new">TargetException</target>
+        </trans-unit>
+        <trans-unit id="331" translate="yes" xml:space="preserve">
+          <source>TargetParameterCountException</source>
+          <target state="new">TargetParameterCountException</target>
+        </trans-unit>
+        <trans-unit id="332" translate="yes" xml:space="preserve">
+          <source>MethodAccessException</source>
+          <target state="new">MethodAccessException</target>
+        </trans-unit>
+        <trans-unit id="333" translate="yes" xml:space="preserve">
+          <source>TargetInvocationException</source>
+          <target state="new">TargetInvocationException</target>
+        </trans-unit>
+        <trans-unit id="334" translate="yes" xml:space="preserve">
+          <source>SecurityException</source>
+          <target state="new">SecurityException</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

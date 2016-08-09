@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a865358afb660fc0ff62333b0b75adffbe6b00c9</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Security.Cryptography.ECDsaCng.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4e2fa4d8665764b02d28de659270f6d0bfabd8f2</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>ECDsaCng</source>
+          <target state="new">ECDsaCng</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>ECDsaCng()</source>
+          <target state="new">ECDsaCng()</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Cryptography Next Generation (CNG) classes are not supported on this system.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Cryptography Next Generation (CNG) classes are not supported on this system.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>ECDsaCng(Int32)</source>
+          <target state="new">ECDsaCng(Int32)</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of the key.</source>
+          <target state="new">\n&lt;p&gt;The size of the key.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Valid key sizes are 256, 384, and 521 bits.&lt;/p&gt;\n</source>
+          <target state="new">Valid key sizes are 256, 384, and 521 bits.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Cryptography Next Generation (CNG) classes are not supported on this system.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Cryptography Next Generation (CNG) classes are not supported on this system.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keySize&lt;/em&gt; specifies an invalid length.</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;keySize&lt;/em&gt; specifies an invalid length.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>ECDsaCng(CngKey)</source>
+          <target state="new">ECDsaCng(CngKey)</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key that will be used as input to the cryptographic operations performed by the current object.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The key that will be used as input to the cryptographic operations performed by the current object.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; does not specify an Elliptic Curve Digital Signature Algorithm (ECDSA) group.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; does not specify an Elliptic Curve Digital Signature Algorithm (ECDSA) group.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Cryptography Next Generation (CNG) classes are not supported on this system.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;Cryptography Next Generation (CNG) classes are not supported on this system.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>ECDsaCng(ECCurve)</source>
+          <target state="new">ECDsaCng(ECCurve)</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Key</source>
+          <target state="new">Key</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that specifies the key.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;An object that specifies the key.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>KeySize</source>
+          <target state="new">KeySize</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>LegalKeySizes</source>
+          <target state="new">LegalKeySizes</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Dispose(Boolean)</source>
+          <target state="new">Dispose(Boolean)</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>ExportExplicitParameters(Boolean)</source>
+          <target state="new">ExportExplicitParameters(Boolean)</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>ExportParameters(Boolean)</source>
+          <target state="new">ExportParameters(Boolean)</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>GenerateKey(ECCurve)</source>
+          <target state="new">GenerateKey(ECCurve)</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>HashData(Byte[], Int32, Int32, HashAlgorithmName)</source>
+          <target state="new">HashData(Byte[], Int32, Int32, HashAlgorithmName)</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>HashData(Stream, HashAlgorithmName)</source>
+          <target state="new">HashData(Stream, HashAlgorithmName)</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>ImportParameters(ECParameters)</source>
+          <target state="new">ImportParameters(ECParameters)</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>SignHash(Byte[])</source>
+          <target state="new">SignHash(Byte[])</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hash value of the data to be signed.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The hash value of the data to be signed.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A digital signature for the specified hash value.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A digital signature for the specified hash value.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;hash&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;hash&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key information that is associated with the instance does not have a private key.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The key information that is associated with the instance does not have a private key.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>VerifyHash(Byte[], Byte[])</source>
+          <target state="new">VerifyHash(Byte[], Byte[])</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hash value of the data to be verified.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The hash value of the data to be verified.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The digital signature of the data to be verified against the hash value.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The digital signature of the data to be verified against the hash value.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the signature is valid; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the signature is valid; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;hash&lt;/em&gt; or &lt;em&gt;signature&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;hash&lt;/em&gt; or &lt;em&gt;signature&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>System.Security.Cryptography</source>
+          <target state="new">System.Security.Cryptography</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Int32</source>
+          <target state="new">Int32</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>CngKey</source>
+          <target state="new">CngKey</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>ECCurve</source>
+          <target state="new">ECCurve</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>KeySizes[]</source>
+          <target state="new">KeySizes[]</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>KeySizes</source>
+          <target state="new">KeySizes</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>KeySizes</source>
+          <target state="new">KeySizes</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>ECParameters</source>
+          <target state="new">ECParameters</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Byte[]</source>
+          <target state="new">Byte[]</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>HashAlgorithmName</source>
+          <target state="new">HashAlgorithmName</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Stream</source>
+          <target state="new">Stream</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>System.IO</source>
+          <target state="new">System.IO</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>PlatformNotSupportedException</source>
+          <target state="new">PlatformNotSupportedException</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>CryptographicException</source>
+          <target state="new">CryptographicException</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>ArgumentException</source>
+          <target state="new">ArgumentException</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>ArgumentNullException</source>
+          <target state="new">ArgumentNullException</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

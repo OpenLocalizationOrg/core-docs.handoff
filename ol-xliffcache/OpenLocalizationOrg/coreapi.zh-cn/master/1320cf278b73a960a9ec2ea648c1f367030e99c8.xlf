@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1320cf278b73a960a9ec2ea648c1f367030e99c8</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Security.AccessControl.AceType.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a8347c53de9c71d8a0ef418a11b1fcda931290e8</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>AceType</source>
+          <target state="new">AceType</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>AccessAllowed</source>
+          <target state="new">AccessAllowed</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>AccessAllowedCallback</source>
+          <target state="new">AccessAllowedCallback</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>AccessAllowedCallbackObject</source>
+          <target state="new">AccessAllowedCallbackObject</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>AccessAllowedCompound</source>
+          <target state="new">AccessAllowedCompound</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>AccessAllowedObject</source>
+          <target state="new">AccessAllowedObject</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>AccessDenied</source>
+          <target state="new">AccessDenied</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>AccessDeniedCallback</source>
+          <target state="new">AccessDeniedCallback</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>AccessDeniedCallbackObject</source>
+          <target state="new">AccessDeniedCallbackObject</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>AccessDeniedObject</source>
+          <target state="new">AccessDeniedObject</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>MaxDefinedAceType</source>
+          <target state="new">MaxDefinedAceType</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>SystemAlarm</source>
+          <target state="new">SystemAlarm</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>SystemAlarmCallback</source>
+          <target state="new">SystemAlarmCallback</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>SystemAlarmCallbackObject</source>
+          <target state="new">SystemAlarmCallbackObject</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>SystemAlarmObject</source>
+          <target state="new">SystemAlarmObject</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>SystemAudit</source>
+          <target state="new">SystemAudit</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>SystemAuditCallback</source>
+          <target state="new">SystemAuditCallback</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>SystemAuditCallbackObject</source>
+          <target state="new">SystemAuditCallbackObject</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>SystemAuditObject</source>
+          <target state="new">SystemAuditObject</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>System.Security.AccessControl</source>
+          <target state="new">System.Security.AccessControl</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>AceType</source>
+          <target state="new">AceType</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

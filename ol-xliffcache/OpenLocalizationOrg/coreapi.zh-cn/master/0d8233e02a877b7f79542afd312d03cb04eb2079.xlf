@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0d8233e02a877b7f79542afd312d03cb04eb2079</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Security.Cryptography.X509Certificates.X500DistinguishedName.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">93b7ccf75b0e9c2ea917012475c119ef6fa55735</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>X500DistinguishedName</source>
+          <target state="new">X500DistinguishedName</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>X500DistinguishedName(Byte[])</source>
+          <target state="new">X500DistinguishedName(Byte[])</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A byte array that contains distinguished name information.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A byte array that contains distinguished name information.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>X500DistinguishedName(AsnEncodedData)</source>
+          <target state="new">X500DistinguishedName(AsnEncodedData)</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>X500DistinguishedName(X500DistinguishedName)</source>
+          <target state="new">X500DistinguishedName(X500DistinguishedName)</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>X500DistinguishedName(String)</source>
+          <target state="new">X500DistinguishedName(String)</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that represents the distinguished name.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A string that represents the distinguished name.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>X500DistinguishedName(String, X500DistinguishedNameFlags)</source>
+          <target state="new">X500DistinguishedName(String, X500DistinguishedNameFlags)</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that represents the distinguished name.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A string that represents the distinguished name.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitwise combination of the enumeration values that specify the characteristics of the distinguished name.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A bitwise combination of the enumeration values that specify the characteristics of the distinguished name.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The comma-delimited distinguished name of the X509 certificate.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The comma-delimited distinguished name of the X509 certificate.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Decode(X500DistinguishedNameFlags)</source>
+          <target state="new">Decode(X500DistinguishedNameFlags)</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitwise combination of the enumeration values that specify the characteristics of the distinguished name.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A bitwise combination of the enumeration values that specify the characteristics of the distinguished name.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The decoded distinguished name.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The decoded distinguished name.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The certificate has an invalid name.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The certificate has an invalid name.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Format(Boolean)</source>
+          <target state="new">Format(Boolean)</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the return string should contain carriage returns; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the return string should contain carriage returns; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A formatted string that represents the X500 distinguished name.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;A formatted string that represents the X500 distinguished name.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>System.Security.Cryptography.X509Certificates</source>
+          <target state="new">System.Security.Cryptography.X509Certificates</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Byte[]</source>
+          <target state="new">Byte[]</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>[]</source>
+          <target state="new">[]</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Byte</source>
+          <target state="new">Byte</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>()</source>
+          <target state="new">()</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>AsnEncodedData</source>
+          <target state="new">AsnEncodedData</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>System.Security.Cryptography</source>
+          <target state="new">System.Security.Cryptography</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>X500DistinguishedName</source>
+          <target state="new">X500DistinguishedName</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>X500DistinguishedNameFlags</source>
+          <target state="new">X500DistinguishedNameFlags</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>CryptographicException</source>
+          <target state="new">CryptographicException</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

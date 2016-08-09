@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6151590698ff4c02ed4568a6d22160d8a6b5448d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.IO.Compression.ZipFile.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">329954fb70876ad97e9277d248032d566ae33074</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>ZipFile</source>
+          <target state="new">ZipFile</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>CreateFromDirectory(String, String)</source>
+          <target state="new">CreateFromDirectory(String, String)</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the directory to be archived, specified as a relative or absolute path.</source>
+          <target state="new">\n&lt;p&gt;The path to the directory to be archived, specified as a relative or absolute path.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path of the archive to be created, specified as a relative or absolute path.</source>
+          <target state="new">\n&lt;p&gt;The path of the archive to be created, specified as a relative or absolute path.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">\n&lt;p&gt;In &lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; already exists.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;A file in the specified directory could not be opened.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; already exists.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;A file in the specified directory could not be opened.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the directory specified in &lt;em&gt;sourceDirectoryName&lt;/em&gt; or the file specified in &lt;em&gt;destinationArchiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the directory specified in &lt;em&gt;sourceDirectoryName&lt;/em&gt; or the file specified in &lt;em&gt;destinationArchiveFileName&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The zip archive does not support writing.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The zip archive does not support writing.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>CreateFromDirectory(String, String, CompressionLevel, Boolean)</source>
+          <target state="new">CreateFromDirectory(String, String, CompressionLevel, Boolean)</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the directory to be archived, specified as a relative or absolute path.</source>
+          <target state="new">\n&lt;p&gt;The path to the directory to be archived, specified as a relative or absolute path.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path of the archive to be created, specified as a relative or absolute path.</source>
+          <target state="new">\n&lt;p&gt;The path of the archive to be created, specified as a relative or absolute path.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that indicates whether to emphasize speed or compression effectiveness when creating the entry.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;One of the enumeration values that indicates whether to emphasize speed or compression effectiveness when creating the entry.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to include the directory name from &lt;em&gt;sourceDirectoryName&lt;/em&gt; at the root of the archive; &lt;strong&gt;false&lt;/strong&gt; to include only the contents of the directory.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to include the directory name from &lt;em&gt;sourceDirectoryName&lt;/em&gt; at the root of the archive; &lt;strong&gt;false&lt;/strong&gt; to include only the contents of the directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">\n&lt;p&gt;In &lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; already exists.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;A file in the specified directory could not be opened.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; already exists.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;A file in the specified directory could not be opened.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the directory specified in &lt;em&gt;sourceDirectoryName&lt;/em&gt; or the file specified in &lt;em&gt;destinationArchiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the directory specified in &lt;em&gt;sourceDirectoryName&lt;/em&gt; or the file specified in &lt;em&gt;destinationArchiveFileName&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The zip archive does not support writing.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The zip archive does not support writing.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>CreateFromDirectory(String, String, CompressionLevel, Boolean, Encoding)</source>
+          <target state="new">CreateFromDirectory(String, String, CompressionLevel, Boolean, Encoding)</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the directory to be archived, specified as a relative or absolute path.</source>
+          <target state="new">\n&lt;p&gt;The path to the directory to be archived, specified as a relative or absolute path.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path of the archive to be created, specified as a relative or absolute path.</source>
+          <target state="new">\n&lt;p&gt;The path of the archive to be created, specified as a relative or absolute path.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that indicates whether to emphasize speed or compression effectiveness when creating the entry.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;One of the enumeration values that indicates whether to emphasize speed or compression effectiveness when creating the entry.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to include the directory name from &lt;em&gt;sourceDirectoryName&lt;/em&gt; at the root of the archive; &lt;strong&gt;false&lt;/strong&gt; to include only the contents of the directory.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to include the directory name from &lt;em&gt;sourceDirectoryName&lt;/em&gt; at the root of the archive; &lt;strong&gt;false&lt;/strong&gt; to include only the contents of the directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The encoding to use when reading or writing entry names in this archive.</source>
+          <target state="new">\n&lt;p&gt;The encoding to use when reading or writing entry names in this archive.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Specify a value for this parameter only when an encoding is required for interoperability with zip archive tools and libraries that do not support UTF-8 encoding for entry names.&lt;/p&gt;\n</source>
+          <target state="new">Specify a value for this parameter only when an encoding is required for interoperability with zip archive tools and libraries that do not support UTF-8 encoding for entry names.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">\n&lt;p&gt;In &lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; already exists.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;A file in the specified directory could not be opened.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; already exists.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;A file in the specified directory could not be opened.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the directory specified in &lt;em&gt;sourceDirectoryName&lt;/em&gt; or the file specified in &lt;em&gt;destinationArchiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the directory specified in &lt;em&gt;sourceDirectoryName&lt;/em&gt; or the file specified in &lt;em&gt;destinationArchiveFileName&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The zip archive does not support writing.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The zip archive does not support writing.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>ExtractToDirectory(String, String)</source>
+          <target state="new">ExtractToDirectory(String, String)</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the archive that is to be extracted.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The path to the archive that is to be extracted.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the directory in which to place the extracted files, specified as a relative or absolute path.</source>
+          <target state="new">\n&lt;p&gt;The path to the directory in which to place the extracted files, specified as a relative or absolute path.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path in &lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; exceeds the system-defined maximum length.</source>
+          <target state="new">\n&lt;p&gt;The specified path in &lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; exceeds the system-defined maximum length.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The specified path is invalid (for example, it is on an unmapped drive).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission to access the archive or the destination directory.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The caller does not have the required permission to access the archive or the destination directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceArchiveFileName&lt;/em&gt; was not found.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;sourceArchiveFileName&lt;/em&gt; was not found.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The archive specified by &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is not a valid zip archive.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was not found or was corrupt.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was compressed by using a compression method that is not supported.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The archive specified by &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is not a valid zip archive.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was not found or was corrupt.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was compressed by using a compression method that is not supported.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>ExtractToDirectory(String, String, Encoding)</source>
+          <target state="new">ExtractToDirectory(String, String, Encoding)</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the archive that is to be extracted.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The path to the archive that is to be extracted.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the directory in which to place the extracted files, specified as a relative or absolute path.</source>
+          <target state="new">\n&lt;p&gt;The path to the directory in which to place the extracted files, specified as a relative or absolute path.</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The encoding to use when reading or writing entry names in this archive.</source>
+          <target state="new">\n&lt;p&gt;The encoding to use when reading or writing entry names in this archive.</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Specify a value for this parameter only when an encoding is required for interoperability with zip archive tools and libraries that do not support UTF-8 encoding for entry names.&lt;/p&gt;\n</source>
+          <target state="new">Specify a value for this parameter only when an encoding is required for interoperability with zip archive tools and libraries that do not support UTF-8 encoding for entry names.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path in &lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; exceeds the system-defined maximum length.</source>
+          <target state="new">\n&lt;p&gt;The specified path in &lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; exceeds the system-defined maximum length.</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The specified path is invalid (for example, it is on an unmapped drive).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission to access the archive or the destination directory.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The caller does not have the required permission to access the archive or the destination directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceArchiveFileName&lt;/em&gt; was not found.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;sourceArchiveFileName&lt;/em&gt; was not found.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The archive specified by &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is not a valid zip archive.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was not found or was corrupt.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was compressed by using a compression method that is not supported.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The archive specified by &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is not a valid zip archive.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was not found or was corrupt.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was compressed by using a compression method that is not supported.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>Open(String, ZipArchiveMode)</source>
+          <target state="new">Open(String, ZipArchiveMode)</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the archive to open, specified as a relative or absolute path.</source>
+          <target state="new">\n&lt;p&gt;The path to the archive to open, specified as a relative or absolute path.</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the actions which are allowed on the entries in the opened archive.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;One of the enumeration values that specifies the actions which are allowed on the entries in the opened archive.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened zip archive.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The opened zip archive.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;archiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">\n&lt;p&gt;In &lt;em&gt;archiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the file specified in &lt;em&gt;archiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the file specified in &lt;em&gt;archiveFileName&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; specifies an invalid value.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; specifies an invalid value.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>Open(String, ZipArchiveMode, Encoding)</source>
+          <target state="new">Open(String, ZipArchiveMode, Encoding)</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the archive to open, specified as a relative or absolute path.</source>
+          <target state="new">\n&lt;p&gt;The path to the archive to open, specified as a relative or absolute path.</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the actions that are allowed on the entries in the opened archive.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;One of the enumeration values that specifies the actions that are allowed on the entries in the opened archive.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The encoding to use when reading or writing entry names in this archive.</source>
+          <target state="new">\n&lt;p&gt;The encoding to use when reading or writing entry names in this archive.</target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>Specify a value for this parameter only when an encoding is required for interoperability with zip archive tools and libraries that do not support UTF-8 encoding for entry names.&lt;/p&gt;\n</source>
+          <target state="new">Specify a value for this parameter only when an encoding is required for interoperability with zip archive tools and libraries that do not support UTF-8 encoding for entry names.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened zip archive.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The opened zip archive.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;archiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">\n&lt;p&gt;In &lt;em&gt;archiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the file specified in &lt;em&gt;archiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the file specified in &lt;em&gt;archiveFileName&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; specifies an invalid value.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; specifies an invalid value.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>OpenRead(String)</source>
+          <target state="new">OpenRead(String)</target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the archive to open, specified as a relative or absolute path.</source>
+          <target state="new">\n&lt;p&gt;The path to the archive to open, specified as a relative or absolute path.</target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened zip archive.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The opened zip archive.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;archiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">\n&lt;p&gt;In &lt;em&gt;archiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; could not be opened.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; could not be opened.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the file specified in &lt;em&gt;archiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the file specified in &lt;em&gt;archiveFileName&lt;/em&gt;.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file specified in &lt;em&gt;archiveFileName&lt;/em&gt; is not found.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;The file specified in &lt;em&gt;archiveFileName&lt;/em&gt; is not found.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; could not be interpreted as a zip archive.&lt;/p&gt;\n</source>
+          <target state="new">\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; could not be interpreted as a zip archive.&lt;/p&gt;\n</target>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>System.IO.Compression</source>
+          <target state="new">System.IO.Compression</target>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>ToString()</source>
+          <target state="new">ToString()</target>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>ToString</source>
+          <target state="new">ToString</target>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>Equals(Object)</source>
+          <target state="new">Equals(Object)</target>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>Equals(Object, Object)</source>
+          <target state="new">Equals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>Equals</source>
+          <target state="new">Equals</target>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals(Object, Object)</source>
+          <target state="new">ReferenceEquals(Object, Object)</target>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>ReferenceEquals</source>
+          <target state="new">ReferenceEquals</target>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <target state="new">Object</target>
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>GetHashCode()</source>
+          <target state="new">GetHashCode()</target>
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>GetHashCode</source>
+          <target state="new">GetHashCode</target>
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>GetType()</source>
+          <target state="new">GetType()</target>
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>GetType</source>
+          <target state="new">GetType</target>
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone()</source>
+          <target state="new">MemberwiseClone()</target>
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone</source>
+          <target state="new">MemberwiseClone</target>
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>MemberwiseClone</source>
+          <target state="new">MemberwiseClone</target>
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>(</source>
+          <target state="new">(</target>
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>)</source>
+          <target state="new">)</target>
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>String</source>
+          <target state="new">String</target>
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>CompressionLevel</source>
+          <target state="new">CompressionLevel</target>
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <target state="new">Boolean</target>
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>Encoding</source>
+          <target state="new">Encoding</target>
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>System.Text</source>
+          <target state="new">System.Text</target>
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>ZipArchiveMode</source>
+          <target state="new">ZipArchiveMode</target>
+        </trans-unit>
+        <trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>ZipArchive</source>
+          <target state="new">ZipArchive</target>
+        </trans-unit>
+        <trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>ArgumentException</source>
+          <target state="new">ArgumentException</target>
+        </trans-unit>
+        <trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>ArgumentNullException</source>
+          <target state="new">ArgumentNullException</target>
+        </trans-unit>
+        <trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>PathTooLongException</source>
+          <target state="new">PathTooLongException</target>
+        </trans-unit>
+        <trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>DirectoryNotFoundException</source>
+          <target state="new">DirectoryNotFoundException</target>
+        </trans-unit>
+        <trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>IOException</source>
+          <target state="new">IOException</target>
+        </trans-unit>
+        <trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>UnauthorizedAccessException</source>
+          <target state="new">UnauthorizedAccessException</target>
+        </trans-unit>
+        <trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>NotSupportedException</source>
+          <target state="new">NotSupportedException</target>
+        </trans-unit>
+        <trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>FileNotFoundException</source>
+          <target state="new">FileNotFoundException</target>
+        </trans-unit>
+        <trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>InvalidDataException</source>
+          <target state="new">InvalidDataException</target>
+        </trans-unit>
+        <trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>ArgumentOutOfRangeException</source>
+          <target state="new">ArgumentOutOfRangeException</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

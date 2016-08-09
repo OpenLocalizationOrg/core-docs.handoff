@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1121009ffbc60d33e7aaaa77a09426817bfb6695</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">System.Net.Sockets.yml</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f1e15791692bb64d736d092b7ed1ca486a30431b</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>System.Net.Sockets</source>
+          <target state="new">System.Net.Sockets</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>AddressFamily</source>
+          <target state="new">AddressFamily</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>SocketError</source>
+          <target state="new">SocketError</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>SocketException</source>
+          <target state="new">SocketException</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>IOControlCode</source>
+          <target state="new">IOControlCode</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>IPPacketInformation</source>
+          <target state="new">IPPacketInformation</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>IPProtectionLevel</source>
+          <target state="new">IPProtectionLevel</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>IPv6MulticastOption</source>
+          <target state="new">IPv6MulticastOption</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>LingerOption</source>
+          <target state="new">LingerOption</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>MulticastOption</source>
+          <target state="new">MulticastOption</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>NetworkStream</source>
+          <target state="new">NetworkStream</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>ProtocolType</source>
+          <target state="new">ProtocolType</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>SelectMode</source>
+          <target state="new">SelectMode</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>SendPacketsElement</source>
+          <target state="new">SendPacketsElement</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Socket</source>
+          <target state="new">Socket</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>SocketAsyncEventArgs</source>
+          <target state="new">SocketAsyncEventArgs</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>SocketAsyncOperation</source>
+          <target state="new">SocketAsyncOperation</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>SocketFlags</source>
+          <target state="new">SocketFlags</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>SocketOptionLevel</source>
+          <target state="new">SocketOptionLevel</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>SocketOptionName</source>
+          <target state="new">SocketOptionName</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>SocketReceiveFromResult</source>
+          <target state="new">SocketReceiveFromResult</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>SocketReceiveMessageFromResult</source>
+          <target state="new">SocketReceiveMessageFromResult</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>SocketShutdown</source>
+          <target state="new">SocketShutdown</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>SocketTaskExtensions</source>
+          <target state="new">SocketTaskExtensions</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>SocketType</source>
+          <target state="new">SocketType</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>TcpClient</source>
+          <target state="new">TcpClient</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>TcpListener</source>
+          <target state="new">TcpListener</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>UdpClient</source>
+          <target state="new">UdpClient</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>UdpReceiveResult</source>
+          <target state="new">UdpReceiveResult</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>System.Net.Sockets</source>
+          <target state="new">System.Net.Sockets</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
