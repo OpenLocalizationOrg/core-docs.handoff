@@ -1,6 +1,6 @@
 ---
-title: "How to: Use Arrays of Blocking Collections in a Pipeline"
-description: "How to: Use Arrays of Blocking Collections in a Pipeline"
+title: 'How to: Use Arrays of Blocking Collections in a Pipeline'
+description: 'How to: Use Arrays of Blocking Collections in a Pipeline'
 keywords: .NET, .NET Core
 author: mairaw
 manager: wpickett
@@ -10,6 +10,10 @@ ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
 ms.assetid: 278a6566-09ba-4022-8802-e160e75b86af
+translationtype: Human Translation
+ms.sourcegitcommit: c15f2da15c6448cf1c36dea2d5fd53e734bb6608
+ms.openlocfilehash: e68ad58fecfe489cc26af02be7e4dbb4f7a8470c
+
 ---
 
 # How to: Use Arrays of Blocking Collections in a Pipeline
@@ -193,3 +197,9 @@ class PipeLineDemo
 [System.Collections.Concurrent](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent)
 
 [Thread-Safe Collections](index.md)
+
+
+
+<!--HONumber=Aug16_HO2-->
+
+

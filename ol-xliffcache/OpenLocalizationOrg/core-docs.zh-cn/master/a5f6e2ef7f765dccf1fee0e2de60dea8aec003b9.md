@@ -1,6 +1,6 @@
 ---
-title: Sorted Collection Types  
-description: Sorted Collection Types  
+title: Sorted Collection Types
+description: Sorted Collection Types
 keywords: .NET, .NET Core
 author: mairaw
 manager: wpickett
@@ -10,6 +10,10 @@ ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
 ms.assetid: bdc9c13e-e56a-433b-a293-c92364f6e9cb
+translationtype: Human Translation
+ms.sourcegitcommit: 149086110d7470d97e1ab3e5969269626290b523
+ms.openlocfilehash: a5f6e2ef7f765dccf1fee0e2de60dea8aec003b9
+
 ---
 
 # Sorted Collection Types  
@@ -52,3 +56,9 @@ The following table lists some of the differences between the two sorted list cl
 [ConcurrentDictionary&lt;TKey, TValue&gt;](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent.ConcurrentDictionary-2)  
  
 [Commonly Used Collection Types](commonly-used-collection-types.md) 
+
+
+
+<!--HONumber=Aug16_HO2-->
+
+

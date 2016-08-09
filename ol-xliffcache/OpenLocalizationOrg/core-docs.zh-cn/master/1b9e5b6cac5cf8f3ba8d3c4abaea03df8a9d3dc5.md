@@ -10,6 +10,10 @@ ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
 ms.assetid: 1e38f9d9-8f84-46ee-a15f-199aec4f2e34
+translationtype: Human Translation
+ms.sourcegitcommit: e07788926a995b41571be276379ad9285747951d
+ms.openlocfilehash: 1b9e5b6cac5cf8f3ba8d3c4abaea03df8a9d3dc5
+
 ---
 
 # Async in depth
@@ -40,10 +44,10 @@ The first example calls an async method and returns an active task, likely yet t
 ```csharp
 public Task<string> GetHtmlAsync()
 {
- 	// Execution is synchronous here
-	var client = new HttpClient();
-	
-	return client.GetStringAsync("http://www.dotnetfoundation.org");
+    // Execution is synchronous here
+    var client = new HttpClient();
+    
+    return client.GetStringAsync("http://www.dotnetfoundation.org");
 }
 ```
 
@@ -52,24 +56,24 @@ The second example adds the use of he `async` and `await` keywords to operate on
 ```csharp
 public async Task<string> GetFirstCharactersCountAsync(string url, int count)
 {
-	// Execution is synchronous here
-	var client = new HttpClient();
-	
-	// Execution of GetFirstCharactersCountAsync() is yielded to the caller here
-	// GetStringAsync returns a Task<string>, which is *awaited*
-	var page = await client.GetStringAsync("http://www.dotnetfoundation.org");
-	
-	// Execution resumes when the client.GetStringAsync task completes,
+    // Execution is synchronous here
+    var client = new HttpClient();
+    
+    // Execution of GetFirstCharactersCountAsync() is yielded to the caller here
+    // GetStringAsync returns a Task<string>, which is *awaited*
+    var page = await client.GetStringAsync("http://www.dotnetfoundation.org");
+    
+    // Execution resumes when the client.GetStringAsync task completes,
     // becoming synchronous again.
-	
-	if (count > page.Length)
-	{
-		return page;
-	}
-	else
-	{
-		return page.Substring(0, count);
-	}
+    
+    if (count > page.Length)
+    {
+        return page;
+    }
+    else
+    {
+        return page.Substring(0, count);
+    }
 }
 ```
 
@@ -122,16 +126,16 @@ Here's a 10,000 foot view of a CPU-bound async call:
 ```csharp
 public async Task<int> CalculateResult(InputData data)
 {
-	// This queues up the work on the threadpool.
-	var expensiveResultTask = Task.Run(() => DoExpensiveCalculation(data));
-	
-	// Note that at this point, you can do some other work concurrently,
-	// as CalculateResult() is still executing!
-	
-	// Execution of CalculateResult is yielded here!
-	var result = await expensiveResultTask;
-	
-	return result;
+    // This queues up the work on the threadpool.
+    var expensiveResultTask = Task.Run(() => DoExpensiveCalculation(data));
+    
+    // Note that at this point, you can do some other work concurrently,
+    // as CalculateResult() is still executing!
+    
+    // Execution of CalculateResult is yielded here!
+    var result = await expensiveResultTask;
+    
+    return result;
 }
 ```
 
@@ -142,3 +146,8 @@ Once `await` is encountered, the execution of `CalculateResult()` is yielded to 
 ### Why does async help here?
 
 `async` and `await` are the best practice managing CPU-bound work when you need responsiveness. There are multiple patterns for using async with CPU-bound work. It's important to note that there is a small cost to using async and it's not recommended for tight loops.  It's up to you to determine how you write your code around this new capability.
+
+
+<!--HONumber=Aug16_HO2-->
+
+

@@ -10,6 +10,10 @@ ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
 ms.assetid: a2a42d44-f6a5-4f16-9000-026221d66349
+translationtype: Human Translation
+ms.sourcegitcommit: e07788926a995b41571be276379ad9285747951d
+ms.openlocfilehash: 74f421a5badd9f2c7bf10fa1dfdf98161bba2ce8
+
 ---
 
 # When to Use a Thread-Safe Collection
@@ -67,3 +71,9 @@ When bounding and blocking semantics are required, [System.Collections.Concurren
 [System.Collections.Concurrent](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent)
 
 [Thread-Safe Collections](index.md)
+
+
+
+<!--HONumber=Aug16_HO2-->
+
+
